@@ -1,0 +1,355 @@
+Report for Institution Code TCWC, Resource tcwc_verts
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 233
+Number of records retrieved in searches: 2883
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 34
+	Country: United States ; Times: 113
+	Country: Unknown ; Times: 79
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 8
+	Date: 2014-04-02 ; Times: 6
+	Date: 2014-04-03 ; Times: 8
+	Date: 2014-04-04 ; Times: 5
+	Date: 2014-04-05 ; Times: 2
+	Date: 2014-04-06 ; Times: 3
+	Date: 2014-04-08 ; Times: 2
+	Date: 2014-04-09 ; Times: 6
+	Date: 2014-04-10 ; Times: 3
+	Date: 2014-04-11 ; Times: 1
+	Date: 2014-04-14 ; Times: 1
+	Date: 2014-04-15 ; Times: 2
+	Date: 2014-04-16 ; Times: 22
+	Date: 2014-04-17 ; Times: 9
+	Date: 2014-04-18 ; Times: 2
+	Date: 2014-04-19 ; Times: 3
+	Date: 2014-04-20 ; Times: 16
+	Date: 2014-04-21 ; Times: 13
+	Date: 2014-04-22 ; Times: 26
+	Date: 2014-04-23 ; Times: 1
+	Date: 2014-04-24 ; Times: 6
+	Date: 2014-04-25 ; Times: 9
+	Date: 2014-04-26 ; Times: 4
+	Date: 2014-04-27 ; Times: 17
+	Date: 2014-04-28 ; Times: 32
+	Date: 2014-04-29 ; Times: 26
+
+List of queries that retrieved data from the resource: 
+	Query: "Sceloporus pyrocephalus" ; Times: 2
+	Query: "type:specimen country:"Mexico" class:Mammalia institutioncode:TCWC" ; Times: 1
+	Query: "Sceloporus melanorhinus" ; Times: 2
+	Query: "class:Mammalia institutioncode:TCWC" ; Times: 2
+	Query: "Hyphessobrycon sp" ; Times: 3
+	Query: "djibouti" ; Times: 2
+	Query: "python molurus" ; Times: 2
+	Query: "andinoacara" ; Times: 2
+	Query: "phrynosoma modestum" ; Times: 1
+	Query: "Sceloporus megalepidurus" ; Times: 2
+	Query: "Thamnophis scalaris stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus latifasciatus" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 4
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Crotalus triseriatus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Bathophilus pawneei" ; Times: 2
+	Query: "Micrurus distans" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "type:specimen specificepithet:leucotis genus:sigmodon" ; Times: 1
+	Query: "eryx miliaris" ; Times: 1
+	Query: "Micrurus limbatus" ; Times: 2
+	Query: "Sternopygus macrurus" ; Times: 1
+	Query: "county:"Brazos" specificepithet:gossypinus genus:Peromyscus" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 2
+	Query: "Micrurus tener" ; Times: 1
+	Query: "Micrurus isozonus" ; Times: 1
+	Query: "Profundulus punctatus" ; Times: 1
+	Query: "Brachyhypopomus sp" ; Times: 1
+	Query: "country:"Mexico" class:Mammalia institutioncode:TCWC" ; Times: 2
+	Query: "rachael" ; Times: 1
+	Query: "catalognumber:3232 sex:male" ; Times: 5
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "scalopus aquaticus illinois" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 2
+	Query: "Micrurus petersi" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "Etheostoma parvipinne" ; Times: 3
+	Query: "pecari tajacu mexico" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "Crossoloricaria" ; Times: 1
+	Query: "genus:sus specificepithet:scrofa institutioncode:tcwc" ; Times: 1
+	Query: "hoplias malabaricus" ; Times: 3
+	Query: "Barisia imbricata stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Dormitator latifrons" ; Times: 2
+	Query: "Isurus oxyrinchus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "Lonchophylla handleyi" ; Times: 3
+	Query: "type:specimen specificepithet:alleni genus:Sigmodon" ; Times: 3
+	Query: "occultus genus:Myotis institutioncode:TCWC" ; Times: 1
+	Query: "Micrurus tamaulipensis" ; Times: 1
+	Query: "Aparallactus modestus" ; Times: 1
+	Query: "Cerrophidion barbouri" ; Times: 1
+	Query: "(Gymnotidae)" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "type:specimen specificepithet:ochrognathus genus:sigmodon" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "euderma maculatum" ; Times: 1
+	Query: "conepatus genus:conepatus year >= 1990 year <= 2014" ; Times: 1
+	Query: "Scyliorhinus" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 42
+	Query: "phrynosoma taurus" ; Times: 2
+	Query: "Rhamdia quelen" ; Times: 2
+	Query: "Ateles geoffroyi vellerosus" ; Times: 1
+	Query: "Bassariscus Texas" ; Times: 3
+	Query: "Sceloporus bicanthalis" ; Times: 2
+	Query: "Ctenogobius sagittula" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 3
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "TCWC and Mammalia" ; Times: 1
+	Query: "(evelynae) year <= 2014" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "Kinixys homeana" ; Times: 1
+	Query: "pseudocerastes" ; Times: 1
+	Query: "Sceloporus ochoterenae" ; Times: 3
+	Query: "Bothrops venezuelensis" ; Times: 1
+	Query: "Sceloporus bicanthalis stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "Lepus callotis" ; Times: 2
+	Query: "Micrurus filiformis" ; Times: 1
+	Query: "specificepithet:pardalis genus:geochelone" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "TCWC Mammalia" ; Times: 1
+	Query: "Micrurus ornatissimus" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "Porthidium ophryomegas" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus class:Mammalia" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "stateprovince:"jalisco" country:"mexico" genus:artibeus year >= 1979 year <= 1979" ; Times: 1
+	Query: "Brachyhypopomus occidentalis" ; Times: 3
+	Query: "Agkistrodon bilineatus" ; Times: 3
+	Query: "Sceloporus aeneus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "Lonchophylla hesperia" ; Times: 1
+	Query: "Micrurus putumayensis" ; Times: 1
+	Query: "Micrurus dumerilii" ; Times: 1
+	Query: "Kentropyx striata" ; Times: 1
+	Query: "Micrurus browni" ; Times: 2
+	Query: "Xiphophorus hellerii" ; Times: 2
+	Query: "Micrurus pyrrhocryptus" ; Times: 1
+	Query: "Hoplias microlepis" ; Times: 1
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "specificepithet:modestum genus:Phrynosoma" ; Times: 3
+	Query: "synodontis schall" ; Times: 2
+	Query: "Micrurus spixii" ; Times: 1
+	Query: "Sceloporus mucronatus" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "spermophilus washingtoni" ; Times: 2
+	Query: "Gobionellus microdon" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Gila orcuttii" ; Times: 1
+	Query: "crotalus basiliscus" ; Times: 1
+	Query: "kinixys homeana" ; Times: 5
+	Query: "Andinoacara pulcher" ; Times: 1
+	Query: "Hyla gratiosa" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "polychrus gutturosus country:"Costa Rica"" ; Times: 2
+	Query: "Sceloporus gadoviae" ; Times: 7
+	Query: "Amastridium" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 4
+	Query: "Bothrops alternatus" ; Times: 1
+	Query: "Andinoacara" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 127 (out of 433 download events in this period)
+Total number of records downloaded: 19563 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12182
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: China ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Czechia ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: United States ; Times: 96
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 7
+	Date: 2014-04-02 ; Times: 7
+	Date: 2014-04-04 ; Times: 1
+	Date: 2014-04-07 ; Times: 3
+	Date: 2014-04-08 ; Times: 1
+	Date: 2014-04-10 ; Times: 2
+	Date: 2014-04-11 ; Times: 1
+	Date: 2014-04-15 ; Times: 6
+	Date: 2014-04-16 ; Times: 39
+	Date: 2014-04-17 ; Times: 5
+	Date: 2014-04-18 ; Times: 4
+	Date: 2014-04-20 ; Times: 2
+	Date: 2014-04-21 ; Times: 9
+	Date: 2014-04-22 ; Times: 23
+	Date: 2014-04-23 ; Times: 4
+	Date: 2014-04-24 ; Times: 1
+	Date: 2014-04-25 ; Times: 3
+	Date: 2014-04-27 ; Times: 1
+	Date: 2014-04-28 ; Times: 3
+	Date: 2014-04-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "kinixys erosa" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "genus:lepomis" ; Times: 2
+	Query: "Bothrops asper" ; Times: 1
+	Query: ""Mustela nivalis" type:specimen" ; Times: 1
+	Query: "Praomys daltoni" ; Times: 1
+	Query: "andinoacara" ; Times: 1
+	Query: "phrynosoma modestum" ; Times: 2
+	Query: "specificepithet:regilla genus:Pseudacris" ; Times: 2
+	Query: "Thamnophis scalaris stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Cerrophidion barbouri" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Crotalus triseriatus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "chiroptera grant county new mexico" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "Actitis macularius" ; Times: 1
+	Query: "Chiroptera type:specimen county:"grant" stateprovince:"new mexico" year <= 2013" ; Times: 1
+	Query: "type:specimen specificepithet:fulviventer genus:sigmodon" ; Times: 1
+	Query: "Sistrurus miliarius" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Micrurus tener" ; Times: 1
+	Query: ""Neovison vison" type:specimen" ; Times: 1
+	Query: "Micrurus isozonus" ; Times: 1
+	Query: "Plectrohyla sagorum" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "sistrurus miliarius" ; Times: 1
+	Query: "psammophis" ; Times: 1
+	Query: "amphispiza belli" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "Micrurus lemniscatus" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "jacana" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 2
+	Query: "Porthidium dunni" ; Times: 1
+	Query: "Micrurus mipartitus" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "Geomys personatus" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 1
+	Query: "Barisia imbricata stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "country:"china" class:reptilia" ; Times: 1
+	Query: "chiroptera grant new mexico" ; Times: 1
+	Query: "Micrurus fulvius" ; Times: 1
+	Query: ""Mustela erminea" type:specimen" ; Times: 2
+	Query: "genus:Ctenotus" ; Times: 1
+	Query: "amphispiza nevadensis" ; Times: 1
+	Query: "Micrurus latifasciatus" ; Times: 1
+	Query: "Cerrophidion godmani" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus" ; Times: 1
+	Query: "Micrurus alleni" ; Times: 1
+	Query: "Bothriechis schlegelii" ; Times: 1
+	Query: "Scyliorhinus" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "genus:sus specificepithet:scrofa institutioncode:tcwc" ; Times: 1
+	Query: "Sceloporus grammicus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "alligator" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Bothriechis marchi" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Thallomys" ; Times: 1
+	Query: "Bothrops venezuelensis" ; Times: 1
+	Query: "Sceloporus bicanthalis stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "kinixys homeana" ; Times: 1
+	Query: "Micrurus filiformis" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "specificepithet:pardalis genus:geochelone" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "Micrurus ornatissimus" ; Times: 1
+	Query: "Heloderma" ; Times: 1
+	Query: "Bothrops cotiara" ; Times: 1
+	Query: "Porthidium ophryomegas" ; Times: 1
+	Query: "habromys" ; Times: 1
+	Query: "Bothrops brazili" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Sceloporus aeneus stateprovince:"Mexico" country:"Mexico"" ; Times: 1
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "Micrurus nigrocinctus" ; Times: 1
+	Query: "Micrurus dumerilii" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Micrurus browni" ; Times: 1
+	Query: "Micrurus pyrrhocryptus" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Micrurus spixii" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Bothriechis aurifer" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "sistrurus catenatus" ; Times: 1
+	Query: "agkistrodon contortrix" ; Times: 1
+	Query: "Chaetodipus" ; Times: 4
+	Query: "Micrurus diastema" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Bothrops jararaca" ; Times: 1
+	Query: "Bothrops alternatus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 233
+Total number of records retrieved from searches: 2883
+Number of download events that retrieved data from the resource: 338
+Total number of records downloaded: 112836
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 233
+Total number of records retrieved from searches: 2883
+Number of download events that retrieved data from the resource: 533
+Total number of records downloaded: 396757
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
