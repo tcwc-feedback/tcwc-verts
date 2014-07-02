@@ -1,0 +1,513 @@
+Report for Institution Code TCWC, Resource tcwc_verts
+Usage stats for June, 2014, generated on 2014/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 547
+Number of records retrieved in searches: 7375
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 25
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 97
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 416
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 7
+	Date: 2014-06-02 ; Times: 22
+	Date: 2014-06-03 ; Times: 11
+	Date: 2014-06-04 ; Times: 9
+	Date: 2014-06-05 ; Times: 13
+	Date: 2014-06-06 ; Times: 17
+	Date: 2014-06-07 ; Times: 11
+	Date: 2014-06-08 ; Times: 33
+	Date: 2014-06-09 ; Times: 31
+	Date: 2014-06-10 ; Times: 5
+	Date: 2014-06-11 ; Times: 3
+	Date: 2014-06-12 ; Times: 16
+	Date: 2014-06-13 ; Times: 7
+	Date: 2014-06-14 ; Times: 25
+	Date: 2014-06-15 ; Times: 4
+	Date: 2014-06-16 ; Times: 21
+	Date: 2014-06-17 ; Times: 2
+	Date: 2014-06-18 ; Times: 3
+	Date: 2014-06-19 ; Times: 16
+	Date: 2014-06-20 ; Times: 146
+	Date: 2014-06-21 ; Times: 3
+	Date: 2014-06-22 ; Times: 9
+	Date: 2014-06-23 ; Times: 66
+	Date: 2014-06-24 ; Times: 1
+	Date: 2014-06-25 ; Times: 1
+	Date: 2014-06-27 ; Times: 9
+	Date: 2014-06-28 ; Times: 2
+	Date: 2014-06-29 ; Times: 46
+	Date: 2014-06-30 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Orthogeomys hispidus stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Panama" specificepithet:leporinus genus:Noctilio" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:dendrophis genus:Dendrophidion institutioncode:TCWC" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:anomalus genus:Drepanoides" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:taeniatus genus:Bothriopsis institutioncode:TCWC" ; Times: 1
+	Query: "ctenomys maulinus" ; Times: 1
+	Query: "country:"Peru" genus:Drepanoides" ; Times: 3
+	Query: "genus:Ungaliophis" ; Times: 1
+	Query: "Pteronotus personatus stateprovince:"Veracruz"" ; Times: 1
+	Query: "Myotis fortidens stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Peru" genus:Tantilla" ; Times: 2
+	Query: "Pteronotus gymnonotus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "lecontei tissue:1" ; Times: 1
+	Query: "county:"Roberston" stateprovince:"Texas" class:mammalia" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:hortulanus genus:Corallus institutioncode:TCWC" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:mentovarius genus:Masticophis" ; Times: 1
+	Query: "Vampyrum spectrum type:specimen" ; Times: 1
+	Query: "genus:amazona year >= 1990 year <= 2014 tissue:1" ; Times: 1
+	Query: "Cryptotis mexicana stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:angulatus genus:Helicops" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:fulgidus genus:Oxybelis institutioncode:TCWC" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 6
+	Query: "Cryptotis parva pueblensis" ; Times: 1
+	Query: "Bauerus dubiaquercus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Labeo" ; Times: 1
+	Query: "puma concolor stateprovince:"Texas"" ; Times: 1
+	Query: "country:"Peru" genus:Clelia" ; Times: 1
+	Query: "putorius stateprovince:"texas"" ; Times: 9
+	Query: "genus:elseya" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:sulphureus genus:Pseustes institutioncode:TCWC" ; Times: 1
+	Query: "mustela stateprovince:"texas"" ; Times: 1
+	Query: "country:"Panama" class:Amphibia institutioncode:TCWC" ; Times: 1
+	Query: "country:"Panama" specificepithet:asper genus:Bothrops" ; Times: 1
+	Query: "Noctilio leporinus stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Peru" genus:Erythrolamprus" ; Times: 1
+	Query: "stateprovince:"Piura" country:"Peru" class:Reptilia" ; Times: 1
+	Query: "Callicebus torquatus" ; Times: 1
+	Query: "specificepithet:rhombifer genus:Drymobius" ; Times: 6
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:atrox genus:Bothrops" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:triangularis genus:Hydrops" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:sp. genus:Thamnodynastes" ; Times: 1
+	Query: "country:"Panama" specificepithet:macrophyllum genus:macrophyllum" ; Times: 1
+	Query: "country:"Peru" genus:Philodryas" ; Times: 1
+	Query: "geomys texensis" ; Times: 5
+	Query: "genus:amazona (tissue) year >= 1990" ; Times: 4
+	Query: "country:"Peru" genus:Drymoluber" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:aquaticus genus:sylvilagus" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:muta genus:Lachesis institutioncode:TCWC" ; Times: 1
+	Query: "country:"Peru" specificepithet:rhombifer genus:Drymobius" ; Times: 2
+	Query: "specificepithet:gaigeae genus:Rhadinaea" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:rabdocephalus genus:Xenodon" ; Times: 1
+	Query: "country:"Peru" genus:Typhlops" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:albirostris genus:Liotyphlops" ; Times: 2
+	Query: "Nyctinomops laticaudatus stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Panama" specificepithet:cenchria genus:Epicrates" ; Times: 2
+	Query: "country:"Peru" genus:Epicrates" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:exoletus genus:Chironius institutioncode:TCWC" ; Times: 1
+	Query: "stateprovince:"Guayas" country:"Ecuador" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Yaracuy" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "Myotis keaysi stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:sylvestris genus:Glyphonycteris" ; Times: 1
+	Query: "country:"Panama" specificepithet:melanolomus genus:Mastigodryas" ; Times: 2
+	Query: "stateprovince:"Merida" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "Euderma" ; Times: 1
+	Query: "Diploglossus monotropis" ; Times: 4
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "Orthogeomys hispidus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Lonchorhina aurita country:"El Salvador"" ; Times: 1
+	Query: "country:"Costa Rica" genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 11
+	Query: "country:"Peru" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "specificepithet:luisi genus:Sturnira" ; Times: 1
+	Query: "country:"Peru" genus:Pseudoboa" ; Times: 1
+	Query: "ara (tissue) year >= 1990" ; Times: 1
+	Query: "Cryptotis parva stateprovince:"Veracruz"" ; Times: 1
+	Query: "spermophilus perotensis stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:scurrulus genus:Chironius" ; Times: 1
+	Query: "specificepithet:quinquelineata genus:Rhadinaea" ; Times: 2
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "Eptesicus furinalis stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Apure" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "stateprovince:"texas" genus:lontra" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:caninus genus:Corallus institutioncode:TCWC" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:indica genus:Dipsas" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:aesculapii genus:Erythrolamprus institutioncode:TCWC" ; Times: 1
+	Query: "country:"Honduras" specificepithet:melanolomus genus:Mastigodryas" ; Times: 1
+	Query: "country:"Panama" specificepithet:naso genus:Rhynchonycteris" ; Times: 1
+	Query: "stateprovince:"texas" genus:Nasua" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:melanogenys genus:Oxyrhopus institutioncode:TCWC" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: ""geomys texensis texensis"" ; Times: 1
+	Query: "Vampyrum" ; Times: 2
+	Query: "stateprovince:"Veracruz" country:"Mexico" specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:trigeminus genus:Oxyrhopus institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla year >= 1980 year <= 2014" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:pleei genus:Mastigodryas" ; Times: 2
+	Query: "specificepithet:decipiens genus:Urotheca year >= 1974 year <= 2014" ; Times: 1
+	Query: "Phyllostomus discolor stateprovince:"Veracruz"" ; Times: 1
+	Query: "genus:Rhadinaea year >= 1974 year <= 2014" ; Times: 2
+	Query: "country:"Panama" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 3
+	Query: "country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 5
+	Query: "Molossus rufus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "stateprovince:"El Oro" country:"Ecuador" class:Reptilia" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:lineatus genus:Liophis" ; Times: 1
+	Query: "Rhogeessa tumida stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:cupreus genus:Leptophis institutioncode:TCWC" ; Times: 1
+	Query: "Myotis auriculus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Cryptotis stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Micronycteris stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:polylepis genus:Helicops institutioncode:TCWC" ; Times: 1
+	Query: "country:"Mexico" genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:melanocephala genus:Tantilla" ; Times: 1
+	Query: "country:"Peru" genus:Spilotes" ; Times: 1
+	Query: "neotoma goldmani" ; Times: 1
+	Query: "Myotis velifer stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Honduras" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "country:"Panama" specificepithet:biporcatus genus:Norops" ; Times: 1
+	Query: "Oryzomys rostratus stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:baileyi genus:Thamnodynastes institutioncode:TCWC" ; Times: 1
+	Query: "Reithrodontomys fulvescens stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "country:"Costa Rica" genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:brazili genus:Bothrops" ; Times: 1
+	Query: "specificepithet:petola genus:Oxyrhopus" ; Times: 3
+	Query: "country:"Nicaragua" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "specificepithet:albirostris genus:Liotyphlops" ; Times: 4
+	Query: "country:"Peru" genus:Boa" ; Times: 1
+	Query: "specificepithet:godmani genus:Choeroniscus" ; Times: 1
+	Query: "centralis stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:oligolepis genus:Liophis institutioncode:TCWC" ; Times: 1
+	Query: "country:"Nicaragua" genus:Chelydra" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:hyoprora genus:Porthidium institutioncode:TCWC" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:collaris genus:Atractus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:poeppigi genus:Atractus institutioncode:TCWC" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:torquatus genus:Atractus" ; Times: 1
+	Query: "country:"Peru" genus:Leptophis" ; Times: 1
+	Query: "country:"Venezuela" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "Eptesicus furinalis stateprovince:"Veracruz"" ; Times: 1
+	Query: "genus:ara tissue:1" ; Times: 1
+	Query: "specificepithet:fulvivittis genus:Rhadinaea" ; Times: 1
+	Query: "country:"Nicaragua" genus:Pseustes" ; Times: 1
+	Query: "loxocemus bicolor" ; Times: 1
+	Query: "country:"Honduras" specificepithet:nigroluteus genus:Tretanorhinus" ; Times: 1
+	Query: "Phyllostomus Phyllostomus discolor Phyllostomus discolor stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:yacu genus:Helicops institutioncode:TCWC" ; Times: 1
+	Query: "Sciurus oculatus stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Peru" genus:Leptomicrurus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:murinus genus:Eunectes institutioncode:TCWC" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:brevirostris genus:Echinanthera institutioncode:TCWC" ; Times: 1
+	Query: "tlacuatzin" ; Times: 2
+	Query: "Molossus rufus stateprovince:"Veracruz"" ; Times: 1
+	Query: "Philander opossum stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus" ; Times: 2
+	Query: "Platyrrhinus helleri stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "country:"Venezuela" genus:Tantilla" ; Times: 3
+	Query: "stateprovince:"Apure" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "specificepithet:obscura genus:Lichonycteris" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:badius genus:Atractus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:ahaetulla genus:Leptophis" ; Times: 1
+	Query: "country:"Peru" genus:Drymobius" ; Times: 3
+	Query: "country:"Panama" specificepithet:leptura genus:Saccopteryx" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:major genus:Atractus" ; Times: 1
+	Query: "Oryzomys rostratus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:cuneata genus:Rhadinaea" ; Times: 1
+	Query: "country:"Mexico" specificepithet:schistosa genus:Tantilla" ; Times: 2
+	Query: "Tadarida brasiliensis stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "country:"Bolivia" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "type:specimen specificepithet:capensis genus:Aonyx" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:minuisquamus genus:Typhlops institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:decipiens genus:Urotheca class:Reptilia" ; Times: 1
+	Query: "country:"Peru" genus:Leptodeira" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:cervinus genus:Siphlophis" ; Times: 1
+	Query: "country:"Surinam" specificepithet:guianensis genus:Phimophis" ; Times: 3
+	Query: "Oryzomys alfaroi stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Costa Rica" genus:Tantilla" ; Times: 1
+	Query: "specificepithet:schistosa genus:Tantilla" ; Times: 1
+	Query: "conepatus stateprovince:"texas"" ; Times: 1
+	Query: "country:"Panama" specificepithet:margaritiferus genus:Drymobius class:Reptilia" ; Times: 1
+	Query: "Myotis thysanodes stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Myotis fortidens stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "chironectes minimus country:"Mexico"" ; Times: 2
+	Query: "spilogale stateprovince:"texas"" ; Times: 3
+	Query: "specificepithet:lineatus genus:Liophis" ; Times: 4
+	Query: "stateprovince:"Tachira" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "specificepithet:schmidtorum genus:Micronycteris" ; Times: 1
+	Query: "Uroderma bilobatum stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Tumbes" country:"Peru" class:Reptilia" ; Times: 3
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:cenchria genus:Epicrates" ; Times: 1
+	Query: "Megadontomys nelsoni stateprovince:"Veracruz"" ; Times: 2
+	Query: "country:"Peru" genus:Pseustes" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia" ; Times: 5
+	Query: "geomys texensis bakeri" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:severus genus:Xenodon" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:lentiferus genus:Imantodes" ; Times: 1
+	Query: "Cratogeomys fulvescens stateprovince:"Veracruz"" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:dichrous genus:Drymoluber" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:coronata genus:Pseudoboa institutioncode:TCWC" ; Times: 1
+	Query: "country:"Peru" genus:Corallus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 8
+	Query: "ammodramus tissue:1" ; Times: 4
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:spixii genus:Micrurus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:leopardinus genus:Helicops institutioncode:TCWC" ; Times: 1
+	Query: "country:"Peru" genus:Helicops" ; Times: 1
+	Query: "Glyphonycteris sylvestris year >= 1700 year <= 2014" ; Times: 1
+	Query: "country:"Panama" specificepithet:mexicana genus:Tamandua" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:corais genus:Drymarchon" ; Times: 1
+	Query: "specificepithet:mimus genus:Erythrolamprus" ; Times: 3
+	Query: "specificepithet:spectrum genus:Vampyrum" ; Times: 1
+	Query: "Sciurus oculatus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "country:"Peru" genus:Hydrops" ; Times: 2
+	Query: "Myotis auriculus stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:argenteus genus:Xenoxybelis institutioncode:TCWC" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "country:"Peru" genus:Thamnodynastes" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:filiformis genus:Micrurus institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 3
+	Query: "country:"Venezuela" specificepithet:dissoleucus genus:Micrurus" ; Times: 1
+	Query: "stateprovince:"Barinas" country:"Venezuela" class:Reptilia" ; Times: 1
+	Query: "Noctilio leporinus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Chiroderma stateprovince:"Veracruz" country:"Mexico" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Reithrodontomys sumichrasti stateprovince:"Veracruz"" ; Times: 2
+	Query: "stateprovince:"Zulia" country:"Venezuela" class:Reptilia" ; Times: 5
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 4
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:occipitalis genus:Echinanthera institutioncode:TCWC" ; Times: 1
+	Query: "country:"Panama" specificepithet:brasiliense genus:Lophostoma" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:brongersmianus genus:Typhlops institutioncode:TCWC" ; Times: 1
+	Query: "Conepatus leuconotus country:"Mexico" year <= 2014" ; Times: 1
+	Query: "Myotis keaysi stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:plicatilis genus:Pseudoeryx institutioncode:TCWC" ; Times: 1
+	Query: "elator stateprovince:"texas"" ; Times: 1
+	Query: "Natalus stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:viridissimus genus:Philodryas institutioncode:TCWC" ; Times: 1
+	Query: "Reithrodontomys megalotis stateprovince:"Veracruz"" ; Times: 2
+	Query: "country:"Venezuela" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 3
+	Query: "sylvilagus aquaticus stateprovince:"Texas"" ; Times: 1
+	Query: "country:"Nicaragua" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "country:"Costa Rica" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "Georgia Geomys" ; Times: 1
+	Query: "Heteromys desmarestianus stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "amazona (tissue) year >= 1990" ; Times: 1
+	Query: "Pteronotus parnellii stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:decorata genus:Rhadinaea year >= 1973 year <= 2014" ; Times: 1
+	Query: "country:"Ecuador" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:centralis genus:Cabassous" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:hortulanus genus:Corallus" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:elaps genus:Atractus" ; Times: 1
+	Query: "specificepithet:mipartitus genus:Micrurus" ; Times: 3
+	Query: "Chiroderma villosum stateprovince:"Veracruz" country:"Mexico" year >= 1800 year <= 2014" ; Times: 2
+	Query: "country:"Peru" genus:Dendrophidion" ; Times: 1
+	Query: "specificepithet:mipartitus genus:Micrurus institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:armillata genus:Tantilla" ; Times: 2
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Amphibia" ; Times: 4
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:formosus genus:Oxyrhopus institutioncode:TCWC" ; Times: 1
+	Query: "country:"Costa Rica" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "liochlorophis vernalis texas" ; Times: 1
+	Query: "Bauerus dubiaquercus stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:pullatus genus:Spilotes institutioncode:TCWC" ; Times: 1
+	Query: "Sturnira hondurensis stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Oryzomys chapmani stateprovince:"Veracruz"" ; Times: 1
+	Query: "country:"peru" specificepithet:lanatus genus:Caluromys" ; Times: 1
+	Query: "stateprovince:"Barinas" country:"Venezuela" class:Amphibia" ; Times: 1
+	Query: "Pseudotriton stateprovince:"New York"" ; Times: 1
+	Query: "specificepithet:albus genus:Diclidurus" ; Times: 1
+	Query: "genus:Amastridium" ; Times: 3
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:miliaris genus:Liophis" ; Times: 1
+	Query: "genus:Pseustes" ; Times: 3
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:reginae genus:Liophis" ; Times: 1
+	Query: "country:"Costa Rica" genus:Lachesis" ; Times: 2
+	Query: "Geomys pinetis records for Georgia" ; Times: 2
+	Query: "stateprovince:"Guarico" country:"Venezuela" specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:breviceps genus:Liophis institutioncode:TCWC" ; Times: 1
+	Query: "class:amphibia catalognumber:50000" ; Times: 1
+	Query: "county:"Roberston"" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Reptilia" ; Times: 6
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "country:"Peru" genus:Drymarchon" ; Times: 1
+	Query: "Promops centralis" ; Times: 2
+	Query: "eurycea lucifuga type:specimen year >= 1960" ; Times: 1
+	Query: "country:"Venezuela" genus:Pseustes" ; Times: 1
+	Query: "country:"Peru" genus:Anilius" ; Times: 1
+	Query: ""geomys texensis bakeri"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:clelia genus:Clelia" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:scytale genus:Anilius institutioncode:TCWC" ; Times: 1
+	Query: "Neotomodon alstoni stateprovince:"Veracruz"" ; Times: 3
+	Query: "county:"Roberston" stateprovince:"Texas"" ; Times: 1
+	Query: "country:"Panama" class:Reptilia institutioncode:TCWC" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:putumayensis genus:Micrurus institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:cozumelae genus:Mimon" ; Times: 1
+	Query: "country:"Panama" specificepithet:fulgidus genus:Oxybelis" ; Times: 1
+	Query: "country:"Peru" genus:Xenopholis" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:cenchoa genus:Imantodes" ; Times: 1
+	Query: "country:"Mexico" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "type:specimen county:"robertson" stateprovince:"texas" class:mammalia" ; Times: 1
+	Query: "country:"Peru" genus:Eunectes" ; Times: 3
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:scalaris genus:Xenopholis" ; Times: 1
+	Query: "stateprovince:"Lambayeque" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:lemniscatus genus:Micrurus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "stateprovince:"Guarico" country:"Venezuela" specificepithet:guianensis genus:Phimophis" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:reticulatus genus:Typhlops institutioncode:TCWC" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" class:Reptilia institutioncode:TCWC" ; Times: 21
+	Query: "marmosa stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Drymobius" ; Times: 1
+	Query: "specificepithet:decipiens genus:Urotheca" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:hemprichii genus:Micrurus" ; Times: 1
+	Query: "gopherus berlandieri texas" ; Times: 1
+	Query: "Eptesicus fuscus stateprovince:"Veracruz"" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:multiventris genus:Chironius" ; Times: 1
+	Query: "chironectes minimus country:"Mexico" year >= 1800 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:martii genus:Hydrops institutioncode:TCWC" ; Times: 1
+	Query: "Reithrodontomys chrysopsis stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:brachyotis genus:Lampronycteris" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:rhombifer genus:Drymobius institutioncode:TCWC" ; Times: 1
+	Query: "country:"Honduras" specificepithet:mimus genus:Erythrolamprus" ; Times: 2
+	Query: "Eptesicus fuscus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:poecilogyrus genus:Liophis institutioncode:TCWC" ; Times: 1
+	Query: "country:"Peru" genus:Oxybelis" ; Times: 1
+	Query: "Cratogeomys merriami stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:canadensis genus:castor" ; Times: 2
+	Query: "Conepatus mesoleucus country:"Mexico" year <= 2014" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:langsdorffi genus:Micrurus institutioncode:TCWC" ; Times: 1
+	Query: "robertson county texas houstonensis" ; Times: 1
+	Query: "Myotis thysanodes stateprovince:"Veracruz"" ; Times: 1
+	Query: "Oligoryzomys fulvescens stateprovince:"Veracruz"" ; Times: 1
+	Query: "genus:ara (tissue) year >= 1990" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:petola genus:Oxyrhopus" ; Times: 1
+	Query: "country:"Colombia" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "country:"Venezuela" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "Cratogeomys perotensis stateprovince:"Veracruz"" ; Times: 1
+	Query: "genus:ara year >= 1990 year <= 2014 tissue:1" ; Times: 1
+	Query: "specificepithet:auratus genus:Norops" ; Times: 1
+	Query: "country:"Peru" genus:Lachesis" ; Times: 2
+	Query: "heloderma horridum" ; Times: 1
+	Query: "Glossophaga commissarisi stateprovince:"Veracruz"" ; Times: 1
+	Query: "specificepithet:hesperia genus:Rhadinaea" ; Times: 1
+	Query: "Megadontomys nelsoni stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "stateprovince:"ica" country:"Peru" class:Amphibia" ; Times: 1
+	Query: "country:"Peru" genus:Siphlophis" ; Times: 1
+	Query: "stateprovince:"Bolivar" country:"Colombia" class:Amphibia institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:maculata genus:Ninia" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:poecilonotus genus:Pseustes" ; Times: 1
+	Query: "stateprovince:"Cordoba" country:"Colombia" class:Reptilia" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:compressus genus:Tripanurgos institutioncode:TCWC" ; Times: 2
+	Query: "Dipodomys phillipsii stateprovince:"Veracruz" year >= 1700 year <= 2014" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea year >= 1973 year <= 2014" ; Times: 1
+	Query: "Bungarus" ; Times: 3
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:latifrons genus:Atractus" ; Times: 1
+	Query: ""geomys texensis"" ; Times: 2
+	Query: "Mormoops megalophylla stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "country:"Peru" genus:Xenodon" ; Times: 1
+	Query: "country:"Peru" class:Reptilia institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:alba genus:Ectophylla" ; Times: 1
+	Query: "genus:Urotheca year >= 1974 year <= 2014" ; Times: 3
+	Query: "country:"Peru" genus:Pseudoeryx" ; Times: 1
+	Query: "Pteronotus personatus stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 1
+	Query: "specificepithet:laureata genus:Rhadinaea" ; Times: 2
+	Query: "agonostomus" ; Times: 5
+	Query: "ophryacus undulatus" ; Times: 2
+	Query: "country:"Peru" genus:Tripanurgos" ; Times: 1
+	Query: "Choeroniscus godmani stateprovince:"Veracruz"" ; Times: 2
+	Query: "Nyctinomops stateprovince:"Veracruz" year >= 1800 year <= 2014" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:annulata genus:Leptodeira" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:aeneus genus:Oxybelis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 278 download events in this period)
+Total number of records downloaded: 22748 (out of 1064147 records downloaded for all resources in this period)
+Total number of unique records downloaded: 17278
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Chile ; Times: 2
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-06-01 ; Times: 1
+	Date: 2014-06-02 ; Times: 2
+	Date: 2014-06-03 ; Times: 5
+	Date: 2014-06-04 ; Times: 2
+	Date: 2014-06-05 ; Times: 5
+	Date: 2014-06-06 ; Times: 1
+	Date: 2014-06-07 ; Times: 1
+	Date: 2014-06-09 ; Times: 1
+	Date: 2014-06-10 ; Times: 2
+	Date: 2014-06-12 ; Times: 2
+	Date: 2014-06-17 ; Times: 2
+	Date: 2014-06-18 ; Times: 3
+	Date: 2014-06-20 ; Times: 1
+	Date: 2014-06-23 ; Times: 4
+	Date: 2014-06-25 ; Times: 4
+	Date: 2014-06-27 ; Times: 1
+	Date: 2014-06-28 ; Times: 1
+	Date: 2014-06-29 ; Times: 1
+	Date: 2014-06-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cryptotis parva pueblensis" ; Times: 1
+	Query: ""geomys texensis bakeri"" ; Times: 1
+	Query: "Georgia Geomys" ; Times: 2
+	Query: "county:"kendall" stateprovince:"texas"" ; Times: 1
+	Query: "type:specimen county:"alameda" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "puma concolor stateprovince:"Texas"" ; Times: 1
+	Query: "hylonycteris" ; Times: 1
+	Query: "Mephitis mephitis country:"Mexico" year <= 2014" ; Times: 1
+	Query: "Bungarus" ; Times: 1
+	Query: "Conepatus mesoleucus country:"Mexico" year <= 2014" ; Times: 1
+	Query: "stateprovince:"Texas" year >= 1980 year <= 2014 mappable:1" ; Times: 1
+	Query: "eulampis holosericeus" ; Times: 1
+	Query: "psittacidae country:"Venezuela"" ; Times: 1
+	Query: "Icterus cucullatus" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: ""geomys texensis texensis"" ; Times: 1
+	Query: "Conepatus leuconotus country:"Mexico" year <= 2014" ; Times: 1
+	Query: "stateprovince:"Guanajuato" country:"Mexico" class:Mammalia" ; Times: 1
+	Query: ""Peromyscus maniculatus sonoriensis" year >= 1970 year <= 1985" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "type:specimen specificepithet:cinerea genus:Neotoma year >= 1800 year <= 2014" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "type:specimen county:"contra costa" specificepithet:melodia genus:Melospiza" ; Times: 1
+	Query: "ophryacus undulatus" ; Times: 2
+	Query: "cottus asper" ; Times: 1
+	Query: "Phrynosoma platyrhinos Arizona" ; Times: 2
+	Query: "thamnophis sirtalis" ; Times: 1
+	Query: "Peromyscus maniculatus year >= 1970 year <= 1985" ; Times: 1
+	Query: "stateprovince:"Arizona" class:Reptilia year >= 1801 year <= 2014" ; Times: 1
+	Query: "Mammals stateprovince:"Veracruz" AND (Veracruz)" ; Times: 1
+	Query: "class:Mammalia Neacomys" ; Times: 1
+	Query: "Sceloporus malachiticus" ; Times: 1
+	Query: "Milvus migrans" ; Times: 1
+	Query: "sylvilagus aquaticus stateprovince:"Texas"" ; Times: 1
+	Query: "Mephitis macroura country:"Mexico" year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 996
+Total number of records retrieved from searches: 12308
+Number of download events that retrieved data from the resource: 435
+Total number of records downloaded: 144526
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 996
+Total number of records retrieved from searches: 12308
+Number of download events that retrieved data from the resource: 630
+Total number of records downloaded: 428447
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
