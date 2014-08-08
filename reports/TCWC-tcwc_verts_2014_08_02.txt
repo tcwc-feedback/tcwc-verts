@@ -1,0 +1,319 @@
+Report for Institution Code TCWC, Resource tcwc_verts
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 227
+Number of records retrieved in searches: 1780
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 5
+	Country: Bolivia ; Times: 1
+	Country: Brazil ; Times: 7
+	Country: Chile ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Finland ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 24
+	Country: Thailand ; Times: 5
+	Country: United States ; Times: 161
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 7
+	Date: 2014-07-02 ; Times: 19
+	Date: 2014-07-03 ; Times: 1
+	Date: 2014-07-04 ; Times: 1
+	Date: 2014-07-05 ; Times: 1
+	Date: 2014-07-06 ; Times: 5
+	Date: 2014-07-07 ; Times: 10
+	Date: 2014-07-08 ; Times: 12
+	Date: 2014-07-09 ; Times: 5
+	Date: 2014-07-10 ; Times: 9
+	Date: 2014-07-11 ; Times: 24
+	Date: 2014-07-13 ; Times: 2
+	Date: 2014-07-14 ; Times: 3
+	Date: 2014-07-15 ; Times: 8
+	Date: 2014-07-16 ; Times: 16
+	Date: 2014-07-17 ; Times: 8
+	Date: 2014-07-18 ; Times: 11
+	Date: 2014-07-19 ; Times: 1
+	Date: 2014-07-20 ; Times: 2
+	Date: 2014-07-21 ; Times: 13
+	Date: 2014-07-22 ; Times: 10
+	Date: 2014-07-23 ; Times: 5
+	Date: 2014-07-24 ; Times: 8
+	Date: 2014-07-25 ; Times: 3
+	Date: 2014-07-26 ; Times: 4
+	Date: 2014-07-28 ; Times: 12
+	Date: 2014-07-29 ; Times: 9
+	Date: 2014-07-30 ; Times: 5
+	Date: 2014-07-31 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Panama" genus:Sceloporus" ; Times: 2
+	Query: "Lepus americanus stateprovince:"Alaska" year >= 1989 year <= 1989" ; Times: 3
+	Query: ""quiscalus mexicanus" type:specimen (skeleton skull) AND (NOT eggs)" ; Times: 1
+	Query: "specificepithet:varia genus:strix tissue:1" ; Times: 3
+	Query: "stateprovince:"south dakota" specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 2
+	Query: "Iguanodectes" ; Times: 1
+	Query: "specificepithet:decorata genus:Rhadinaea" ; Times: 1
+	Query: "sciurus niger rufiventer year >= 1902 year <= 1955" ; Times: 1
+	Query: "graptemys versa" ; Times: 1
+	Query: "stateprovince:"Puntarenas" country:"Costa Rica" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "stateprovince:"ohio" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:trachemys year >= 1970" ; Times: 1
+	Query: "micrura" ; Times: 1
+	Query: "Dipodomys elator" ; Times: 2
+	Query: "stateprovince:"Sinaloa" country:"Mexico" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "sanzinia" ; Times: 1
+	Query: "country:"Venezuela" genus:Helicops" ; Times: 1
+	Query: "coendou mexicanus country:"mexico"" ; Times: 3
+	Query: "class:Mammalia balaenoptera acutorostrata" ; Times: 9
+	Query: "hoplias" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "dipodomys elator" ; Times: 6
+	Query: "geomys streckeri" ; Times: 6
+	Query: "Podarcis lilfordi" ; Times: 1
+	Query: "class:Mammalia catalognumber:42225" ; Times: 1
+	Query: "dipodomys compactus year >= 1980 year <= 2014" ; Times: 1
+	Query: ""caiman crocodilus" country:"Peru" year <= 2011" ; Times: 1
+	Query: "Pituophis ruthveni" ; Times: 3
+	Query: "Rheomys thomasi" ; Times: 1
+	Query: "specificepithet:nebulata genus:Sibon" ; Times: 2
+	Query: "picoides borealis" ; Times: 2
+	Query: "stateprovince:"Loreto" country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Eptesicus andinus year >= 1700 year <= 2014" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:corax genus:corvus AND (NOT fossil) year >= 1940 year <= 2014" ; Times: 1
+	Query: "Terrapene ornata year >= 1960 year <= 1965" ; Times: 2
+	Query: "Ctenosaura pectinata (Skeleton)" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "hoplias malabaricus" ; Times: 4
+	Query: "specificepithet:decipiens genus:Urotheca" ; Times: 3
+	Query: "stateprovince:"Chiapas" country:"Mexico" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: "Geomys texensis" ; Times: 2
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "Pteronotus gymnonotus country:"Mexico" year >= 1700 year <= 2014" ; Times: 1
+	Query: "skin immutabilis type:specimen (diomedea OR phoebastria) AND (NOT Mexico) year >= 1970 year <= 1979" ; Times: 2
+	Query: "specificepithet:CORAX genus:CORVUS institutioncode:tcwc" ; Times: 1
+	Query: "dryocopus pileatus tissue:1" ; Times: 1
+	Query: "emberiza aureola" ; Times: 1
+	Query: "Pseudemys rubriventris stateprovince:"New Jersey"" ; Times: 2
+	Query: "Caiman latirostris" ; Times: 1
+	Query: "Coluber constrictor stateprovince:"New York"" ; Times: 2
+	Query: "Molossus sinaloae country:"Mexico" year >= 1700 year <= 2014" ; Times: 2
+	Query: "xenus" ; Times: 1
+	Query: "Eira barbara country:"Mexico"" ; Times: 2
+	Query: "genus:Micrurus dumerilii" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "stateprovince:"ohio" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "Chrysemys picta stateprovince:"New Jersey"" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "stateprovince:"South Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:corax genus:corvus" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "Mustela frenata country:"Mexico"" ; Times: 3
+	Query: "stateprovince:"minnesota" specificepithet:pennanti genus:martes" ; Times: 1
+	Query: "oligorizomys" ; Times: 1
+	Query: "Uromastyx (skeleton)" ; Times: 7
+	Query: "Cryptotis alticola country:"Mexico" year >= 1700 year <= 2014" ; Times: 1
+	Query: "jabiru" ; Times: 1
+	Query: "pituophis ruthveni" ; Times: 6
+	Query: "rhinoclemmys pulcherrima Mexico" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 7
+	Query: "specificepithet:axis" ; Times: 3
+	Query: "country:"Venezuela" specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "specificepithet:Axis" ; Times: 1
+	Query: "Cnemidophorus murinus" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Clemmys guttata stateprovince:"New Jersey"" ; Times: 1
+	Query: ""Quiscalus mexicanus" (skull)" ; Times: 2
+	Query: "kinixys homeana" ; Times: 1
+	Query: "country:"Peru" genus:Drymobius" ; Times: 3
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "Corvus imparatus" ; Times: 3
+	Query: "leiopython" ; Times: 2
+	Query: "Hoplocercidae" ; Times: 1
+	Query: "guyane" ; Times: 1
+	Query: "aegolius ridgwayi" ; Times: 7
+	Query: "rhinoderma" ; Times: 3
+	Query: ""picoides borealis"" ; Times: 2
+	Query: "Sphenomorphus nigrolabris" ; Times: 2
+	Query: "stateprovince:"Guarico" country:"Venezuela" specificepithet:nebulata genus:Sibon" ; Times: 1
+	Query: "stateprovince:"Loreto" country:"Peru" genus:Micrurus" ; Times: 1
+	Query: "hoplocercidae" ; Times: 3
+	Query: "Rana stateprovince:"New Mexico" year >= 1970 year <= 2014" ; Times: 1
+	Query: "Lepus americanus year >= 1989 year <= 1989" ; Times: 1
+	Query: "country:"Ecuador" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Synbranchus" ; Times: 5
+	Query: "class:Mammalia Spilogale gracilis" ; Times: 1
+	Query: "Amphiesma vietnam" ; Times: 1
+	Query: "Lampropeltis getula stateprovince:"New Jersey"" ; Times: 1
+	Query: "country:"Peru" genus:Porthidium" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Dendrolagus" ; Times: 1
+	Query: "Ursus americanus country:"Mexico" year >= 1950 year <= 2014" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:margaritiferus genus:Drymobius" ; Times: 1
+	Query: ""quiscalus mexicanus" type:specimen AND (NOT eggs)" ; Times: 2
+	Query: "Lampropeltis mexicana" ; Times: 3
+	Query: "Cricetus" ; Times: 1
+	Query: "ectophylla alba" ; Times: 3
+	Query: "Aegolius ridgwayi" ; Times: 3
+	Query: "stateprovince:"wisconsin" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Ursus americanus country:"Mexico"" ; Times: 1
+	Query: "Nyctinomops aurispinosus country:"Mexico" year >= 1800 year <= 2014" ; Times: 1
+	Query: "Gyalopion canum" ; Times: 2
+	Query: "stateprovince:"texas" specificepithet:cryptoleucus genus:corvus year >= 1940 year <= 2014" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:corax genus:corvus AND (NOT fossil)" ; Times: 1
+	Query: "country:"Peru" specificepithet:catesbyi genus:Dipsas" ; Times: 1
+	Query: "Lepidophyma smithii" ; Times: 6
+	Query: "caracal caracal" ; Times: 1
+	Query: "ondatra zibethicus ripensis" ; Times: 3
+	Query: "trichomycterus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 83 (out of 437 download events in this period)
+Total number of records downloaded: 51237 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 44680
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 18
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: United States ; Times: 37
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 3
+	Date: 2014-07-02 ; Times: 2
+	Date: 2014-07-03 ; Times: 9
+	Date: 2014-07-06 ; Times: 1
+	Date: 2014-07-07 ; Times: 6
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-09 ; Times: 5
+	Date: 2014-07-10 ; Times: 2
+	Date: 2014-07-12 ; Times: 8
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 2
+	Date: 2014-07-15 ; Times: 13
+	Date: 2014-07-16 ; Times: 4
+	Date: 2014-07-17 ; Times: 6
+	Date: 2014-07-18 ; Times: 5
+	Date: 2014-07-20 ; Times: 1
+	Date: 2014-07-21 ; Times: 1
+	Date: 2014-07-22 ; Times: 1
+	Date: 2014-07-25 ; Times: 3
+	Date: 2014-07-26 ; Times: 2
+	Date: 2014-07-28 ; Times: 2
+	Date: 2014-07-29 ; Times: 2
+	Date: 2014-07-30 ; Times: 1
+	Date: 2014-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"michigan" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "country:"argentina"" ; Times: 1
+	Query: "Tympanuchus cupido cupido specificepithet:cupido cupido genus:Tympanuchus" ; Times: 1
+	Query: "Mustela frenata country:"Mexico"" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "type:specimen county:"humboldt" stateprovince:"california" class:aves year >= 1950 year <= 2014" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "vespertilionidae" ; Times: 1
+	Query: "stateprovince:"iowa" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "Geomys attwateri year >= 1970 year <= 2014" ; Times: 1
+	Query: "Pteroptochos" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "Aphelocoma type:specimen" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Virginia"" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "rhodinocichla" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Kentucky"" ; Times: 1
+	Query: "cynomys gunnisoni type:specimen year >= 1930 year <= 2014" ; Times: 1
+	Query: "graphiurus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "noctilionidae" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Texas"" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "natalidae" ; Times: 1
+	Query: "siren lacertina" ; Times: 1
+	Query: "specificepithet:Axis" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "Peromyscus leucopus AND (NOT reptilia)" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Missouri"" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "emballonuridae" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Louisiana"" ; Times: 1
+	Query: "Peromyscus boylii Peromyscus boylii type:specimen" ; Times: 1
+	Query: "picoides borealis" ; Times: 2
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "phyllostomidae" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "coendou mexicanus country:"mexico"" ; Times: 3
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Tupinambis" ; Times: 2
+	Query: "Chromis atrilobata" ; Times: 1
+	Query: "thyropteridae" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "hyla cinerea" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "Eira barbara country:"Mexico"" ; Times: 1
+	Query: "mormoopidae" ; Times: 1
+	Query: "molossidae" ; Times: 1
+	Query: "stateprovince:"puebla" country:"mexico" class:mammalia" ; Times: 1
+	Query: "dipodomys elator" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Kansas"" ; Times: 1
+	Query: "sturnira tildae" ; Times: 2
+	Query: "Geomys texensis" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"West Virginia"" ; Times: 1
+	Query: "stateprovince:"South Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: ""caiman crocodilus" country:"Peru" year <= 2011" ; Times: 1
+	Query: "Rheomys thomasi" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1223
+Total number of records retrieved from searches: 14088
+Number of download events that retrieved data from the resource: 518
+Total number of records downloaded: 195763
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1223
+Total number of records retrieved from searches: 14088
+Number of download events that retrieved data from the resource: 713
+Total number of records downloaded: 479684
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
