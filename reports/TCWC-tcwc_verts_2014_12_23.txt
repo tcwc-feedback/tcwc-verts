@@ -1,0 +1,260 @@
+Report for Institution Code TCWC, Resource tcwc_verts
+Usage stats for November, 2014, generated on 2014/12/23
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 128
+Number of records retrieved in searches: 1488
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 13
+	Country: Jamaica ; Times: 2
+	Country: Mexico ; Times: 36
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 72
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 3
+	Date: 2014-11-03 ; Times: 3
+	Date: 2014-11-04 ; Times: 2
+	Date: 2014-11-05 ; Times: 2
+	Date: 2014-11-06 ; Times: 5
+	Date: 2014-11-07 ; Times: 4
+	Date: 2014-11-08 ; Times: 4
+	Date: 2014-11-09 ; Times: 7
+	Date: 2014-11-10 ; Times: 6
+	Date: 2014-11-11 ; Times: 2
+	Date: 2014-11-12 ; Times: 7
+	Date: 2014-11-13 ; Times: 11
+	Date: 2014-11-17 ; Times: 2
+	Date: 2014-11-18 ; Times: 3
+	Date: 2014-11-19 ; Times: 2
+	Date: 2014-11-20 ; Times: 1
+	Date: 2014-11-21 ; Times: 10
+	Date: 2014-11-22 ; Times: 2
+	Date: 2014-11-24 ; Times: 26
+	Date: 2014-11-25 ; Times: 7
+	Date: 2014-11-26 ; Times: 10
+	Date: 2014-11-27 ; Times: 3
+	Date: 2014-11-28 ; Times: 1
+	Date: 2014-11-29 ; Times: 2
+	Date: 2014-11-30 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: ""Vampyrum spectrum" (skeleton)" ; Times: 1
+	Query: "Mabuya AND Botswana" ; Times: 4
+	Query: "Fulica tissue:1" ; Times: 1
+	Query: "cokendolpher" ; Times: 2
+	Query: "sphaerodactylus glaucus" ; Times: 1
+	Query: "Sceloporus chaneyi" ; Times: 1
+	Query: "Regina grahamii" ; Times: 6
+	Query: "graptemys versa" ; Times: 5
+	Query: "heloderma horridum" ; Times: 1
+	Query: "lepidophyma tuxtlae" ; Times: 1
+	Query: "Aspidites" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Petromyzon marinus michigan" ; Times: 1
+	Query: "duellmanohyla chamulae" ; Times: 1
+	Query: "Sceloporus jalapae" ; Times: 2
+	Query: "leptodeira maculata" ; Times: 2
+	Query: "crotalus polystictus" ; Times: 2
+	Query: "sibon fischeri" ; Times: 2
+	Query: "clupea" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "stateprovince:"texas" genus:desmognathus" ; Times: 4
+	Query: "holbrookia lacerata" ; Times: 2
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "stateprovince:"Coahuila" country:"Mexico" genus:Chiropterotriton" ; Times: 1
+	Query: "phrynosoma asio" ; Times: 2
+	Query: "mephitis mephitis estor" ; Times: 1
+	Query: "stateprovince:"New Mexico" (microscaphus)" ; Times: 1
+	Query: "Tropidophis" ; Times: 1
+	Query: "stateprovince:"Nuevo Leon" genus:Chiropterotriton" ; Times: 1
+	Query: "plectrohyla pycnochila" ; Times: 1
+	Query: "gymnophthalmus speciosus" ; Times: 1
+	Query: "Boa constrictor" ; Times: 3
+	Query: "Amphisbaena gonavensis" ; Times: 1
+	Query: "catalognumber:25001 (reissi)" ; Times: 1
+	Query: "catalognumber:25007 (reissi)" ; Times: 1
+	Query: "stateprovince:"Coahuila" genus:Chiropterotriton" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "homo sapiens" ; Times: 3
+	Query: "chionactis palarostris" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "stateprovince:"Coahuila" genus:Pseudoeurycea" ; Times: 1
+	Query: "Sceloporus samcolemani" ; Times: 1
+	Query: "tropidodipsas fasciata" ; Times: 1
+	Query: "micropogonias undulatus" ; Times: 1
+	Query: "Megadontomys nelsoni" ; Times: 1
+	Query: "sibon annulifera" ; Times: 1
+	Query: "Leiopython" ; Times: 1
+	Query: "mandrillus sphinx" ; Times: 1
+	Query: "sceloporus carinatus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Reptilia" ; Times: 3
+	Query: "alligator sinensis" ; Times: 1
+	Query: "Microtus pennsylvanicus provectus" ; Times: 1
+	Query: "class:Reptilia catalognumber:4127" ; Times: 1
+	Query: "phyllodactylus interandinus" ; Times: 2
+	Query: "phyllodactylus reissi" ; Times: 3
+	Query: "phyllodactylus johnwrighti" ; Times: 2
+	Query: "catalognumber:24956 (reissi)" ; Times: 2
+	Query: "country:"USA" specificepithet:eos genus:phoxinus mappable:1" ; Times: 1
+	Query: "Sceloporus jarrovii New Mexico" ; Times: 1
+	Query: "imantodes splendidus" ; Times: 2
+	Query: "Cyanocorax yncas tissue:1" ; Times: 2
+	Query: "Epicrates" ; Times: 4
+	Query: "solenodon" ; Times: 1
+	Query: "Myocastor coypus stateprovince:"Texas"" ; Times: 1
+	Query: "Pseudoeurycea belli" ; Times: 1
+	Query: "stateprovince:"Nebraska" specificepithet:multivirgatus year <= 2014" ; Times: 2
+	Query: "malacochersus" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "(oncorhynchus clarki) year >= 1800 year <= 1970" ; Times: 1
+	Query: "suricata" ; Times: 1
+	Query: "stateprovince:"Alaska" specificepithet:borealis genus:Phylloscopus class:Aves" ; Times: 2
+	Query: "county:"Calhoun" specificepithet:hispidus genus:Sigmodon" ; Times: 1
+	Query: "Sturnira nana" ; Times: 1
+	Query: "stateprovince:"Tamaulipas" genus:Chiropterotriton" ; Times: 1
+	Query: "Tantilla bocourti" ; Times: 1
+	Query: "claudius angustatus" ; Times: 2
+	Query: "Ameiva dorsalis" ; Times: 2
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" specificepithet:margaritiferus genus:Drymobius" ; Times: 2
+	Query: "gastrophryne elegans" ; Times: 1
+	Query: "norops petersii" ; Times: 1
+	Query: "rhadinaea decorata" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "woodhousii county:"Madison"" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Reptilia" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 69 (out of 178 download events in this period)
+Total number of records downloaded: 7797 (out of 878465 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6495
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 2
+	Country: Germany ; Times: 9
+	Country: Mexico ; Times: 15
+	Country: United States ; Times: 37
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-11-01 ; Times: 2
+	Date: 2014-11-04 ; Times: 2
+	Date: 2014-11-05 ; Times: 1
+	Date: 2014-11-06 ; Times: 4
+	Date: 2014-11-08 ; Times: 1
+	Date: 2014-11-10 ; Times: 2
+	Date: 2014-11-11 ; Times: 1
+	Date: 2014-11-12 ; Times: 10
+	Date: 2014-11-13 ; Times: 1
+	Date: 2014-11-15 ; Times: 1
+	Date: 2014-11-18 ; Times: 3
+	Date: 2014-11-19 ; Times: 4
+	Date: 2014-11-20 ; Times: 3
+	Date: 2014-11-21 ; Times: 10
+	Date: 2014-11-22 ; Times: 2
+	Date: 2014-11-24 ; Times: 6
+	Date: 2014-11-25 ; Times: 5
+	Date: 2014-11-26 ; Times: 7
+	Date: 2014-11-27 ; Times: 1
+	Date: 2014-11-29 ; Times: 2
+	Date: 2014-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ambystoma macrodactylum" ; Times: 1
+	Query: "Vipera aspis" ; Times: 1
+	Query: "Mabuya AND Botswana" ; Times: 1
+	Query: "type:specimen specificepithet:parva genus:Cryptotis year <= 2014" ; Times: 1
+	Query: "Neotomodon alstoni" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis" ; Times: 1
+	Query: "Amphisbaena gonavensis" ; Times: 1
+	Query: "ambystoma cingulatum" ; Times: 1
+	Query: "Anolis" ; Times: 1
+	Query: "(chaetodon auriga)" ; Times: 1
+	Query: "glaucomys volans" ; Times: 1
+	Query: "stateprovince:"new mexico" specificepithet:tridecemlineatus" ; Times: 2
+	Query: "setophaga tissue" ; Times: 1
+	Query: "gopherus berlandieri" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "lampropeltis getula" ; Times: 1
+	Query: "Microtus mexicanus" ; Times: 1
+	Query: "Anguis fragilis" ; Times: 1
+	Query: "Lacerta viridis" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Proechimys" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Sceloporus aeneus" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "Sceloporus bicanthalis" ; Times: 1
+	Query: "stateprovince:"Nuevo Leon" country:"Mexico" genus:Chiropterotriton" ; Times: 1
+	Query: "county:"Dona Ana" stateprovince:"New Mexico" class:Mammalia year >= 1700 year <= 2014" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "Crotalus durissus country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Utah" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "type:specimen specificepithet:fumeus genus:Sorex year <= 2014" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Phyllodactylus reissi" ; Times: 1
+	Query: "Loxocemus" ; Times: 1
+	Query: "Sceloporus scalaris" ; Times: 1
+	Query: "lampropeltis triangulum" ; Times: 1
+	Query: "Vipera berus" ; Times: 1
+	Query: "Aruba Reptilia" ; Times: 1
+	Query: "Chaetodon auriga" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "type:specimen county:"Riverside" stateprovince:"California" class:Mammalia" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 2
+	Query: "eptesicus brasiliensis" ; Times: 1
+	Query: "sceloporus jalapae" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "stateprovince:"puebla" country:"Mexico" year <= 2010" ; Times: 1
+	Query: "Isothrix" ; Times: 1
+	Query: "Sceloporus ochoterenae" ; Times: 1
+	Query: "Epicrates" ; Times: 1
+	Query: "rana sylvatica" ; Times: 1
+	Query: "Neacomys" ; Times: 1
+	Query: "dendroica tissue" ; Times: 1
+	Query: "lampropeltis zonata" ; Times: 1
+	Query: "genus:Porthidium year >= 1800 year <= 2014" ; Times: 1
+	Query: ""new mexico" "sigmodon fulviventer"" ; Times: 1
+	Query: "glaucomys sabrinus" ; Times: 1
+	Query: "Ophisaurus" ; Times: 1
+	Query: "stateprovince:"Alabama" class:mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "Lacerta vivipara" ; Times: 1
+	Query: "dendroica" ; Times: 1
+	Query: "phyllodactylus kofordi" ; Times: 1
+	Query: "python" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+	Query: "Morelia" ; Times: 1
+	Query: "Natrix natrix" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1829
+Total number of records retrieved from searches: 22059
+Number of download events that retrieved data from the resource: 861
+Total number of records downloaded: 334964
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1829
+Total number of records retrieved from searches: 22059
+Number of download events that retrieved data from the resource: 1056
+Total number of records downloaded: 618885
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
