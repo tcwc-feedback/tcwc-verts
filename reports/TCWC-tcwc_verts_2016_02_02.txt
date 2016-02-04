@@ -1,0 +1,491 @@
+Report for Institution Code TCWC, Resource Mammals
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 372
+Number of records retrieved in searches: 5211
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 91
+	Country: Namibia ; Times: 3
+	Country: Panama ; Times: 2
+	Country: Russia ; Times: 22
+	Country: South Africa ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: Switzerland ; Times: 7
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 209
+	Country: Unknown ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-03 ; Times: 15
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 10
+	Date: 2016-01-06 ; Times: 8
+	Date: 2016-01-07 ; Times: 15
+	Date: 2016-01-08 ; Times: 4
+	Date: 2016-01-09 ; Times: 11
+	Date: 2016-01-10 ; Times: 5
+	Date: 2016-01-11 ; Times: 11
+	Date: 2016-01-12 ; Times: 11
+	Date: 2016-01-13 ; Times: 10
+	Date: 2016-01-14 ; Times: 17
+	Date: 2016-01-15 ; Times: 18
+	Date: 2016-01-16 ; Times: 3
+	Date: 2016-01-17 ; Times: 5
+	Date: 2016-01-18 ; Times: 5
+	Date: 2016-01-19 ; Times: 24
+	Date: 2016-01-20 ; Times: 16
+	Date: 2016-01-21 ; Times: 18
+	Date: 2016-01-22 ; Times: 19
+	Date: 2016-01-23 ; Times: 9
+	Date: 2016-01-24 ; Times: 16
+	Date: 2016-01-25 ; Times: 28
+	Date: 2016-01-26 ; Times: 14
+	Date: 2016-01-27 ; Times: 9
+	Date: 2016-01-28 ; Times: 24
+	Date: 2016-01-29 ; Times: 24
+	Date: 2016-01-30 ; Times: 3
+	Date: 2016-01-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "nasicus oklahoma" ; Times: 3
+	Query: "Boa nicaragua" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen tissue:1" ; Times: 1
+	Query: "genus:Pseudoeurycea stateprovince:"Queretaro"" ; Times: 1
+	Query: "tcwc 598" ; Times: 1
+	Query: "Spea hammondi" ; Times: 1
+	Query: "clemmys guttata" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "166 class:Amphibia county:"Jeff Davis"" ; Times: 1
+	Query: "genus:Helicops country:"Ecuador"" ; Times: 1
+	Query: "Anas superciliosa tissue:1" ; Times: 1
+	Query: "Kickapoo Cavern class:Reptilia stateprovince:"Texas"" ; Times: 1
+	Query: "Ficimia publia" ; Times: 1
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-105.027516))<15000" ; Times: 1
+	Query: "tcwc 3283" ; Times: 1
+	Query: "Amphisbaena alba" ; Times: 1
+	Query: "Euleptes" ; Times: 2
+	Query: "sphenodon" ; Times: 1
+	Query: "Callinectes sapidus" ; Times: 2
+	Query: "eurycea pterophila" ; Times: 2
+	Query: "Rainbow Snake" ; Times: 3
+	Query: "Eleutherodactylus gryllus" ; Times: 1
+	Query: "smilisca cyanosticta" ; Times: 5
+	Query: "mesalina olivieri" ; Times: 1
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT sceloporus NOT undulatus NOT cophosaurus) year >= 1970 month >= 2 month <= 3" ; Times: 1
+	Query: "septentrionalis oklahoma" ; Times: 1
+	Query: "specificepithet:haje genus:naja" ; Times: 3
+	Query: "specificepithet:grahamii genus:Regina stateprovince:"Texas"" ; Times: 1
+	Query: "polypterus" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:"texas"" ; Times: 1
+	Query: "Dermatemys mawii" ; Times: 1
+	Query: "sceloporus stejnegeri" ; Times: 1
+	Query: "percina nasuta" ; Times: 4
+	Query: "wisconsin tamiasciurus" ; Times: 2
+	Query: "eurycea tonkawae" ; Times: 2
+	Query: "Philander opossum institutioncode:TCWC" ; Times: 2
+	Query: "pseudoeurycea cephalica stateprovince:"veracruz"" ; Times: 1
+	Query: "Ambystoma amblycephalum" ; Times: 1
+	Query: "Conophis vittatus" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "type:specimen specificepithet:obsoleta genus:Pantherophis" ; Times: 1
+	Query: "genus:Orthriophis family:colubridae" ; Times: 1
+	Query: "genus:Notophthalmus specificepithet:meridionalis" ; Times: 1
+	Query: "catalognumber:9466 institutioncode:TCWC" ; Times: 1
+	Query: "Crotalus horridus Georgia" ; Times: 3
+	Query: "Kickapoo Cavern class:Amphibia stateprovince:"Texas"" ; Times: 1
+	Query: "vaillanti mexico" ; Times: 1
+	Query: "wilsonia pusilla (guatemala) month >= 12 month <= 12" ; Times: 1
+	Query: "class:amphibia (west point) distance(location,geopoint(41.365472206597516,-73.99360656738281))<10100" ; Times: 1
+	Query: "Heterodon gloydi" ; Times: 2
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" month >= 2 month <= 4" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 2
+	Query: "33490" ; Times: 1
+	Query: "year >= 2006 year <= 2012 institutioncode:TCWC" ; Times: 1
+	Query: "country:"Mexico" (Anelytropsis)" ; Times: 1
+	Query: "oryzomys chapmani" ; Times: 10
+	Query: "black pine snake" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "distance(location,geopoint(23.819036,-105.367516))<15000" ; Times: 1
+	Query: "plica institutioncode:TCWC" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "type:specimen specificepithet:conspicillata genus:Euprepiophis" ; Times: 1
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 5
+	Query: "Kickapoo class:Reptilia stateprovince:"Texas"" ; Times: 1
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year >= 1970 month >= 2 month <= 4" ; Times: 1
+	Query: "apache creek texas" ; Times: 1
+	Query: "Graptemys oculifera" ; Times: 2
+	Query: "Hydrosaurus" ; Times: 1
+	Query: "specificepithet:cephalica genus:Pseudoeurycea stateprovince:"Tamaulipas"" ; Times: 1
+	Query: "Bolitoglossa altamazonica" ; Times: 4
+	Query: "Loricariidae United States" ; Times: 2
+	Query: "Alsophis elegans" ; Times: 3
+	Query: "hypsiglena oklahoma" ; Times: 1
+	Query: "Sceloporus sugillatus" ; Times: 1
+	Query: "class:amphibia distance(location,geopoint(41.365472206597516,-73.99360656738281))<10100" ; Times: 1
+	Query: "specificepithet:Ornata genus:Pseudacris stateprovince:"Alabama"" ; Times: 1
+	Query: "Caiman yacare" ; Times: 1
+	Query: "1111 class:Reptilia county:"hudspeth" stateprovince:"Texas"" ; Times: 1
+	Query: "monster" ; Times: 11
+	Query: "Chionactis occipitalis Nevada" ; Times: 1
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophora NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla) year >= 1970 month >= 2 month <= 4" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "leptodeira nigrofasciata" ; Times: 2
+	Query: "type:specimen specificepithet:guttatus genus:pantherophis" ; Times: 1
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "hellbender" ; Times: 1
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "jefferson salamander" ; Times: 2
+	Query: "166 class:Reptilia county:"Jeff Davis"" ; Times: 1
+	Query: "concinna texas" ; Times: 1
+	Query: "willardi year >= 1990 year <= 2016" ; Times: 1
+	Query: "pseudogonatodes" ; Times: 1
+	Query: "family:Percopsidae country:"United States"" ; Times: 1
+	Query: "Clelia scytalina" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "Hyla cinerea type:specimen year >= 2006 year <= 2012 institutioncode:TCWC" ; Times: 4
+	Query: "2185 class:Reptilia county:"Culberson" stateprovince:"Texas"" ; Times: 1
+	Query: "Coniophanes quinquevittatus" ; Times: 2
+	Query: "gorzugi" ; Times: 4
+	Query: "ficimia texas" ; Times: 1
+	Query: "pseudoboa neuwiedii" ; Times: 1
+	Query: "class:Reptilia locality:Tena stateprovince:"Napo" country:"Ecuador" AND (NOT Stenocercus)" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:leucomelas" ; Times: 2
+	Query: "specificepithet:carolinus genus:melanerpes class:Aves stateprovince:"oklahoma"" ; Times: 1
+	Query: "unicorn" ; Times: 8
+	Query: "Hippotragus niger" ; Times: 3
+	Query: "Inia type:specimen AND (NOT skull)" ; Times: 1
+	Query: "megasorex carranza nayarit" ; Times: 2
+	Query: "Gobiomorus dormitor" ; Times: 1
+	Query: "megasorex nayarit" ; Times: 2
+	Query: "Smilisca cyanosticta" ; Times: 1
+	Query: "Laemanctus longipes" ; Times: 1
+	Query: "family:Helodermatidae stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "Tantilla wilcoxi" ; Times: 2
+	Query: "class:Reptilia stateprovince:"Texas" distance(location,geopoint(29.162555018601683,-100.31890869140625))<50875" ; Times: 2
+	Query: "Tropidodipsas fasciata" ; Times: 1
+	Query: "Eurycea Pterophila" ; Times: 2
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" year >= 1970 month >= 2 month <= 4" ; Times: 1
+	Query: "coniophanes piceivittis" ; Times: 2
+	Query: "Rhinoclemmys pulcherrima" ; Times: 8
+	Query: "family:Eleotridae country:"United States"" ; Times: 1
+	Query: "gloydi" ; Times: 1
+	Query: "Bolitoglossa platydactyla stateprovince:"veracruz"" ; Times: 3
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophoris NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year >= 1970 month >= 2 month <= 3" ; Times: 1
+	Query: "2185 stateprovince:"Texas"" ; Times: 1
+	Query: "anas sparsa" ; Times: 1
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophoris NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT cophosaurus) year >= 1970 month >= 2 month <= 4" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Northern Cat Eyed Snake" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "Myliobatis longirostris" ; Times: 2
+	Query: "Farancia abacura" ; Times: 4
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "ornate box turtle year >= 2002 year <= 2016" ; Times: 1
+	Query: "anas bahamensis tissue:1" ; Times: 1
+	Query: "Lepidophyma sylvaticum" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "Anolis institutioncode:TCWC" ; Times: 2
+	Query: "institutioncode:TCWC" ; Times: 1
+	Query: "Agama savignii" ; Times: 1
+	Query: "Oryzomys chapmani" ; Times: 22
+	Query: "Sistrurus miliarius miliarius" ; Times: 1
+	Query: "Ophisaurus year >= 2010 year <= 2016" ; Times: 1
+	Query: "Rana sierramadrensis" ; Times: 1
+	Query: "psomophis" ; Times: 1
+	Query: "specificepithet:atrata genus:Ninia" ; Times: 1
+	Query: "family:Dasyatidae country:"United States"" ; Times: 1
+	Query: "spea sierra county" ; Times: 1
+	Query: "Necturus punctatus stateprovince:"South Carolina"" ; Times: 1
+	Query: "carranza megasorex nayarit" ; Times: 1
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 6
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "Inia" ; Times: 1
+	Query: "bitis caudalis" ; Times: 3
+	Query: "class:reptilia county:"brewster" stateprovince:"texas" AND (NOT cnemidophorus NOT flagellum NOT atrox NOT crotaphytus NOT aspidoscelis NOT uta NOT urosaurus NOT tantilla NOT undulatus NOT cophosaurus) year >= 1970 month >= 2 month <= 3" ; Times: 1
+	Query: "Catharus dryas Guatemala" ; Times: 1
+	Query: "HYPSIGLENA TANZERI" ; Times: 1
+	Query: "marion missouri" ; Times: 1
+	Query: "CM 95618" ; Times: 3
+	Query: "Pygmy Rattlesnake" ; Times: 1
+	Query: "ornate box turtle" ; Times: 2
+	Query: "Lampropeltis abnorma" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 7
+	Query: "Idionycteris stateprovince:"New Mexico"" ; Times: 2
+	Query: "birds (costa rica) year >= 1850 year <= 2015 institutioncode:TCWC" ; Times: 1
+	Query: "glass frog" ; Times: 1
+	Query: "Eleutherodactylus dennisi" ; Times: 1
+	Query: "Lampropeltis triangulum abnorma" ; Times: 1
+	Query: "specificepithet:trigeminus genus:Oxyrhopus" ; Times: 1
+	Query: "genus:Mastigodryas country:"Ecuador"" ; Times: 2
+	Query: "rhadinaea fulvivittis oaxaca" ; Times: 1
+	Query: "Roaring River stateprovince:"Missouri"" ; Times: 1
+	Query: "enulius flavitorques" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "genus:Leptophis country:"Ecuador"" ; Times: 2
+	Query: "habia affinis" ; Times: 2
+	Query: "Rhinocheilus lecontei stateprovince:California county:Inyo" ; Times: 1
+	Query: "1111 class:Reptilia stateprovince:"Texas"" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius country:"mexico"" ; Times: 4
+	Query: "Bauerus dubiaquercus" ; Times: 1
+	Query: "coleonyx reticulatus" ; Times: 2
+	Query: "12113" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "505 county:"Jeff Davis"" ; Times: 1
+	Query: "Farancia abacura Texas" ; Times: 1
+	Query: "cm 788" ; Times: 1
+	Query: "Tantilla cuniculator" ; Times: 2
+	Query: "Eleutherodactylus leprus" ; Times: 1
+	Query: "specificepithet:vibakari genus:Amphiesma" ; Times: 1
+	Query: "class:Reptilia distance(location,geopoint(29.162555018601683,-100.31890869140625))<50875" ; Times: 1
+	Query: "genus:Etheostoma stateprovince:"Florida"" ; Times: 1
+	Query: "tigrinum maryland" ; Times: 1
+	Query: "Chiropterotriton chiropterus stateprovince:"veracruz"" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "Malaclemys terrapin littoralis" ; Times: 2
+	Query: "sternotherus carinatus" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "specificepithet:petersi genus:Helicops country:"Ecuador"" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "Pseudemys texana" ; Times: 7
+	Query: "mud snake" ; Times: 2
+	Query: "armadillo" ; Times: 1
+	Query: "Crypturellus type:specimen (alcohol OR fluid OR alcoholic OR ethanol)" ; Times: 1
+	Query: "Dendrophidion vinitor" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 157 (out of 507 download events in this period)
+Total number of records downloaded: 58423 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 36876
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 21
+	Country: Netherlands ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 111
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 5
+	Date: 2016-01-02 ; Times: 5
+	Date: 2016-01-03 ; Times: 17
+	Date: 2016-01-04 ; Times: 6
+	Date: 2016-01-05 ; Times: 18
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 5
+	Date: 2016-01-12 ; Times: 6
+	Date: 2016-01-13 ; Times: 8
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 4
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-17 ; Times: 3
+	Date: 2016-01-18 ; Times: 4
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 9
+	Date: 2016-01-22 ; Times: 7
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-24 ; Times: 3
+	Date: 2016-01-25 ; Times: 3
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-27 ; Times: 6
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 6
+	Date: 2016-01-30 ; Times: 3
+	Date: 2016-01-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudoeurycea stateprovince:"Queretaro"" ; Times: 1
+	Query: "family:Esocidae country:"United States"" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "gonatodes" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Crocuta" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "Lepidoblepharis" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "genus:Rana class:Amphibia stateprovince:Oregon" ; Times: 1
+	Query: "Puebla class:reptilia" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "lichanura trivirgata" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Ambystoma amblycephalum" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: ""Cyclarhis gujanensis"" ; Times: 1
+	Query: "order:caudata continent:north america" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "family:Cyprinidae country:"United States"" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "oryzomys chapmani" ; Times: 1
+	Query: "wilsonia pusilla month >= 6 month <= 7" ; Times: 1
+	Query: "family:Catostomidae country:"United States"" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "Nerodia floridana" ; Times: 1
+	Query: "family:Mugilidae country:"United States"" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Masticophis flagellum Nevada" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "family:Moronidae country:"United States"" ; Times: 1
+	Query: "Sceloporus institutioncode:TCWC" ; Times: 1
+	Query: "family:Amblyopsidae country:"United States"" ; Times: 1
+	Query: ""Myioborus miniatus"" ; Times: 1
+	Query: "family:Hiodontidae country:"United States"" ; Times: 1
+	Query: "Hyperolius marmoratus" ; Times: 1
+	Query: "Crypturellus type:specimen (alcohol OR fluid OR alcoholic)" ; Times: 1
+	Query: "family:Paralichthyidae country:"United States"" ; Times: 1
+	Query: "family:Pleuronectidae country:"United States"" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Sonora semiannulata Nevada" ; Times: 2
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "family:Percopsidae country:"United States"" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "family:Osmeridae country:"United States"" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "Hyla cinerea type:specimen year >= 2006 year <= 2012 institutioncode:TCWC" ; Times: 2
+	Query: "family:Acipenseridae country:"United States"" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "family:Cottidae country:"United States"" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "family:Clupeidae country:"United States"" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "family:Achiridae country:"United States"" ; Times: 1
+	Query: "class:Reptilia stateprovince:"Texas" distance(location,geopoint(29.162555018601683,-100.31890869140625))<50875" ; Times: 1
+	Query: "family:ranidae county:"brewster" institutioncode:TCWC" ; Times: 1
+	Query: "Chionactis occipitalis nevada" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "family:Percidae country:"United States"" ; Times: 1
+	Query: "1111 class:Reptilia county:"hudspeth" stateprovince:"Texas"" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "family:Sciaenidae country:"United States"" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Sauromalus hispidus" ; Times: 1
+	Query: "Teius" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "Puebla type:specimen class:amphibia" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "family:Dasyatidae country:"United States"" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "raja cortezensis" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Bufo californicus" ; Times: 1
+	Query: "family:Gobiidae country:"United States"" ; Times: 1
+	Query: "HYPSIGLENA TANZERI" ; Times: 1
+	Query: "Anolis institutioncode:TCWC" ; Times: 1
+	Query: "Eumeces copei" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "Idionycteris stateprovince:"New Mexico"" ; Times: 2
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "family:Engraulidae country:"United States"" ; Times: 1
+	Query: "family:Poeciliidae country:"United States"" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "aristelliger" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "Panthera pardus" ; Times: 1
+	Query: "Vespertilionidae Colombia" ; Times: 1
+	Query: "Astyanax mexicanus Texas type:specimen year >= 2000 year <= 2016" ; Times: 2
+	Query: "lichanura" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "Platysaurus guttatus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: ""Tangara xanthocephala"" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: ""naja naja"" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Ambystoma flavipiperatum" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 157
+Total number of records downloaded: 58423
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 372
+Total number of records retrieved from searches: 5211
+Number of download events that retrieved data from the resource: 157
+Total number of records downloaded: 58423
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
