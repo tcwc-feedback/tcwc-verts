@@ -1,0 +1,227 @@
+Report for Institution Code TCWC, Resource tcwc_verts
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 156
+Number of records retrieved in searches: 2479
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 88
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 16
+	Country: Unknown ; Times: 24
+	Country: United Kingdom ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Puerto Rico ; Times: 2
+	Country: Russia ; Times: 9
+	Country: Spain ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 11
+	Date: 2016-03-11 ; Times: 8
+	Date: 2016-03-03 ; Times: 24
+	Date: 2016-03-01 ; Times: 5
+	Date: 2016-03-08 ; Times: 14
+	Date: 2016-03-09 ; Times: 18
+	Date: 2016-03-06 ; Times: 19
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-05 ; Times: 21
+	Date: 2016-03-02 ; Times: 10
+	Date: 2016-03-10 ; Times: 9
+	Date: 2016-03-13 ; Times: 3
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Urobatis halleri" ; Times: 1
+	Query: "Thomomys idahoensis usa" ; Times: 1
+	Query: "specificepithet:jamaicensis class:Mammalia stateprovince:&#34;Cortes&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "11054" ; Times: 2
+	Query: "genus:malaclemys catalognumber:33712" ; Times: 3
+	Query: "Ficimia publia" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "specificepithet:costatus genus:Celestus island:Hispaniola" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Western fence lizard" ; Times: 1
+	Query: "phyllomedusa bicolor" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "coleonyx elegans" ; Times: 2
+	Query: "order:Caudata class:Amphibia recordedby:Crump" ; Times: 1
+	Query: "specificepithet:humeralis genus:nycticeius stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "29992" ; Times: 2
+	Query: "Ficimia publia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "order:Anura class:Amphibia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Gerrhonotus lugoi" ; Times: 1
+	Query: "Plectrohyla sagorum" ; Times: 1
+	Query: "country:&#34;Honduras&#34; recordedby:mankins" ; Times: 2
+	Query: "Anniella geronimensis" ; Times: 1
+	Query: "crotalus tigris" ; Times: 1
+	Query: "country:&#34;Honduras&#34; year &gt;= 1964 year &lt;= 1965" ; Times: 1
+	Query: "catalognumber:16265 institutioncode:TCWC" ; Times: 1
+	Query: "hippoglossoides elassodon" ; Times: 1
+	Query: "Ctenosaura similis Nicaragua" ; Times: 1
+	Query: "specificepithet:maculata genus:Holbrookia stateprovince:&#34;New Mexico&#34; institutioncode:TCWC" ; Times: 1
+	Query: "naja haje" ; Times: 1
+	Query: "specificepithet:nasua family:Procyonidae class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "mankins country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:consobrinus genus:Sceloporus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 1
+	Query: "gila monster" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "anolis richardii" ; Times: 1
+	Query: "sibon nebulata" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "parachromis" ; Times: 2
+	Query: "Bufo bankorensis" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "crotalus ravus" ; Times: 1
+	Query: "monster" ; Times: 4
+	Query: "Antimora" ; Times: 1
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "genus:malaclemys stateprovince:&#34;texas&#34; catalognumber:33712" ; Times: 1
+	Query: "genus:Thamnophis class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Erethizontidae recordedby:mankins" ; Times: 2
+	Query: "class:amphibia county:&#34;shelby&#34; stateprovince:&#34;alabama&#34; month &gt;= 5 month &lt;= 7" ; Times: 1
+	Query: "genus:conraua specificepithet:goliath" ; Times: 1
+	Query: "Gehyra brevipalmata" ; Times: 1
+	Query: "specificepithet:hispidus family:Geomyidae country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Piculus family:Picidae preparations:skull" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "class:aves catalognumber:11350" ; Times: 1
+	Query: "Sceloporus goldmani" ; Times: 1
+	Query: "post county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "San Francisco Ecuador Amphibia" ; Times: 1
+	Query: "geophis carinosus" ; Times: 1
+	Query: "specificepithet:scutulatus genus:Crotalus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Bufo microscaphus&#34; Arizona" ; Times: 2
+	Query: "genus:Didelphis class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Thomomys idahoensis" ; Times: 2
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "crotalus aquilus" ; Times: 3
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "specificepithet:albus country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Sceloporus megalepidurus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Glossophaga family:Phyllostomidae order:Chiroptera class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34;" ; Times: 1
+	Query: "crotalus clark county nevada" ; Times: 1
+	Query: "genus:Celestus island:Hispaniola" ; Times: 1
+	Query: "testudinidae stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "specificepithet:rufus class:Mammalia stateprovince:&#34;Atlantida&#34; country:&#34;Honduras&#34;" ; Times: 2
+	Query: "testudo kleinmanni" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 3
+	Query: "237 stateprovince:&#34;Puntarenas&#34; country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Parachromis" ; Times: 1
+	Query: "genus:Smilisca class:Amphibia country:&#34;Mexico&#34; year &gt;= 1977 year &lt;= 1978" ; Times: 1
+	Query: "class:aves catalognumber:11346" ; Times: 2
+	Query: "specificepithet:bilobatum country:&#34;Honduras&#34;" ; Times: 3
+	Query: "Chionactis palarostris" ; Times: 1
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "cienega de flores distance(location,geopoint(25.942239101010102,-100.05952298641205))&lt;100000" ; Times: 1
+	Query: "Sceloporus aeneus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Plectrohyla Chiapas" ; Times: 1
+	Query: "genus:malaclemys stateprovince:&#34;texas&#34;" ; Times: 13
+	Query: "mankins" ; Times: 1
+	Query: "playa escondida" ; Times: 1
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Real&#34; stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "unicorn" ; Times: 1
+	Query: "Zapteryx exasperata" ; Times: 1
+	Query: "Sira Amphibia" ; Times: 6
+	Query: "family:Geomyidae recordedby:mankins" ; Times: 3
+	Query: "Gerrhonotus ophiurus" ; Times: 1
+	Query: "mankins country:&#34;Honduras&#34; recordedby:mankins" ; Times: 1
+	Query: "chersodromus liebmanni" ; Times: 1
+	Query: "eurycea latitans" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 230 download events in this period)
+Total number of records downloaded: 154116
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 10
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 64
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Kenya ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-04 ; Times: 6
+	Date: 2016-03-02 ; Times: 5
+	Date: 2016-03-10 ; Times: 14
+	Date: 2016-03-01 ; Times: 4
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 15
+	Date: 2016-03-06 ; Times: 7
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-14 ; Times: 9
+	Date: 2016-03-05 ; Times: 4
+	Date: 2016-03-11 ; Times: 9
+	Date: 2016-03-03 ; Times: 2
+	Date: 2016-03-13 ; Times: 9
+	Date: 2016-03-12 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Cnemidophorus exsanguis" ; Times: 1
+	Query: "crocodylus acutus" ; Times: 1
+	Query: "stateprovince:&#34;durango&#34; (amphibia)" ; Times: 1
+	Query: "class:Actinopterygii country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Tupinambis" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Bothrops asper" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "Ambystoma jeffersonianum mappable:1" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "chordeiles minor mappable:1" ; Times: 1
+	Query: "class:amphibia country:&#34;Uganda&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "spea multiplicata" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Essex stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "agamidae (sumatra)" ; Times: 1
+	Query: "Ptychohyla" ; Times: 1
+	Query: "tyrannus forficatus" ; Times: 1
+	Query: "Bolitoglossa yucatana" ; Times: 1
+	Query: "protonotaria citrea" ; Times: 1
+	Query: "agamidae (java)" ; Times: 1
+	Query: "Amphiuma means mappable:1" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "spea bombifrons" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1938 year &lt;= 1940" ; Times: 1
+	Query: "Rhineura" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Ardeidae Costa Rica" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1941 year &lt;= 1945" ; Times: 2
+	Query: "atractus trilineatus" ; Times: 1
+	Query: "Icterus gularis mappable:1" ; Times: 1
+	Query: "Kinosternon integrum" ; Times: 1
+
+
+End of report.
