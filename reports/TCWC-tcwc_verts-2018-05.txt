@@ -1,0 +1,1327 @@
+Report for Institution Code TCWC, Resource tcwc_verts
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1341
+Number of records retrieved in searches: 44215
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 4
+	Country: Italy ; Times: 9
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 19
+	Country: Peru ; Times: 7
+	Country: Israel ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Guatemala ; Times: 3
+	Country: China ; Times: 10
+	Country: Chile ; Times: 4
+	Country: Spain ; Times: 15
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 972
+	Country: Sweden ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 92
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 165
+	Country: Austria ; Times: 5
+	Country: Colombia ; Times: 6
+	Country: Kenya ; Times: 1
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 20
+	Date: 2018-05-29 ; Times: 61
+	Date: 2018-05-20 ; Times: 10
+	Date: 2018-05-21 ; Times: 42
+	Date: 2018-05-22 ; Times: 24
+	Date: 2018-05-23 ; Times: 94
+	Date: 2018-05-24 ; Times: 94
+	Date: 2018-05-25 ; Times: 49
+	Date: 2018-05-26 ; Times: 14
+	Date: 2018-05-27 ; Times: 8
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 26
+	Date: 2018-05-04 ; Times: 105
+	Date: 2018-05-05 ; Times: 87
+	Date: 2018-05-02 ; Times: 39
+	Date: 2018-05-03 ; Times: 34
+	Date: 2018-05-01 ; Times: 56
+	Date: 2018-05-08 ; Times: 63
+	Date: 2018-05-09 ; Times: 35
+	Date: 2018-05-31 ; Times: 15
+	Date: 2018-05-30 ; Times: 32
+	Date: 2018-05-15 ; Times: 13
+	Date: 2018-05-14 ; Times: 118
+	Date: 2018-05-17 ; Times: 51
+	Date: 2018-05-16 ; Times: 102
+	Date: 2018-05-11 ; Times: 33
+	Date: 2018-05-10 ; Times: 33
+	Date: 2018-05-13 ; Times: 11
+	Date: 2018-05-12 ; Times: 19
+	Date: 2018-05-19 ; Times: 27
+	Date: 2018-05-18 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:notata genus:Carduelis" ; Times: 1
+	Query: "pseudoeurycea belli" ; Times: 1
+	Query: "Vespertilionidae vntype:specimen institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nigrocincta genus:Tangara" ; Times: 1
+	Query: "Corynorhinus townsendii vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(45.2521729495,-92.422245926))&lt;19803" ; Times: 2
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus county:&#34;brazos&#34;" ; Times: 1
+	Query: "cyclura dominican republic isla" ; Times: 1
+	Query: "Sceloporus arenicolus" ; Times: 1
+	Query: "Lepidophyma pajapanensis" ; Times: 1
+	Query: "distance(location,geopoint(41.249543719,-91.097801958))&lt;7151" ; Times: 2
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "Toxostoma crissale hastissue:1" ; Times: 1
+	Query: "genus:Laetacara" ; Times: 2
+	Query: "specificepithet:mentalis genus:Pipra" ; Times: 1
+	Query: "genus:lampropeltis county:&#34;madera&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "neocrex erythrops vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:megacephalus genus:Polypedates institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:flavicollis genus:Hemithraupis" ; Times: 1
+	Query: "institutioncode:TCWC alcohol leptonycteris yerbabuenae" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "morenia" ; Times: 1
+	Query: "specificepithet:sanguinolentus genus:Ramphocelus" ; Times: 1
+	Query: "TCWC 10048" ; Times: 3
+	Query: "distance(location,geopoint(40.4417059145379,-90.00673221017))&lt;13766" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;San Mateo&#34; stateprovince:&#34;California&#34;" ; Times: 4
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "Haideotriton wallacei" ; Times: 1
+	Query: "tantilla rubra" ; Times: 2
+	Query: "specificepithet:couchii genus:Scaphiopus institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:tigerinus genus:Hoplobatrachus institutioncode:TCWC" ; Times: 3
+	Query: "Micrurus laticollaris" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "Eleutherodactylus decoratus" ; Times: 1
+	Query: "specificepithet:guttata genus:Myrmotherula" ; Times: 1
+	Query: "specificepithet:melanicterus genus:Cacicus" ; Times: 1
+	Query: "picta vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Crotaphytus stateprovince:&#34;Utah&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus" ; Times: 7
+	Query: "44963" ; Times: 1
+	Query: "scientificname:(Noturus albater) country:United States mappable:1" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;McCulloch&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Icterus gularis hastissue:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:Ptilogonys" ; Times: 1
+	Query: "genus:Tomocichla" ; Times: 1
+	Query: "Odontophrynus occidentalis" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;coconino&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "specificepithet:pleei genus:Mastigodryas institutioncode:TCWC" ; Times: 2
+	Query: "country:Ecuador scientificname:Peropteryx kappleri " ; Times: 1
+	Query: "specificepithet:diadema genus:Catamblyrhynchus" ; Times: 1
+	Query: "specificepithet:nigrogularis genus:Icterus" ; Times: 1
+	Query: "specificepithet:spadiceus genus:Attila" ; Times: 1
+	Query: "rhinoderma rufum" ; Times: 4
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "institutioncode:TCWC alcohol phyllostomus hastatus" ; Times: 1
+	Query: "genus:Contia county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "Phrynosoma cornutum stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:TCWC" ; Times: 3
+	Query: "cnemidophorus lacertoides" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;San Mateo&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "liotyphlops albirostris" ; Times: 1
+	Query: "specificepithet:penicillata genus:Eucometis" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "dune sagebrush lizard" ; Times: 1
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "specificepithet:astrild genus:Estrilda" ; Times: 1
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 2
+	Query: "Xenochrophis cerasogaster" ; Times: 3
+	Query: "specificepithet:boylii genus:rana county:&#34;san diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "Hypsiglena hastissue:1 year &gt; 2000" ; Times: 1
+	Query: "Hemiphractus proboscideus" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic vampyressa" ; Times: 1
+	Query: "specificepithet:formosa genus:Calocitta" ; Times: 1
+	Query: "specificepithet:olivacea genus:Gastrophryne institutioncode:TCWC" ; Times: 3
+	Query: "institutioncode:TCWC alcoholic chiroderma villosum" ; Times: 2
+	Query: "institutioncode:TCWC alcoholic antrozous" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic vampyressa bidens" ; Times: 2
+	Query: "specificepithet:peltocephala genus:Peltophryne institutioncode:TCWC" ; Times: 3
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "specificepithet:affinis genus:Euphonia" ; Times: 1
+	Query: "regina grahamii" ; Times: 2
+	Query: "crotalus cerastes nevada" ; Times: 1
+	Query: "specificepithet:melitophrys genus:Vireolanius" ; Times: 1
+	Query: "genus:Vieja" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Costa Rica&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 2
+	Query: "specificepithet:souleyetii genus:Lepidocolaptes" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:Sandia county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:dendroaspis country:&#34;uganda&#34;" ; Times: 1
+	Query: "Eleutherodactylus berkenbuschii" ; Times: 1
+	Query: "Wakulla COUNTY CROTALUS" ; Times: 1
+	Query: "Liotyphlops albirostris" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "specificepithet:willardi genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:arenicolus genus:Sceloporus institutioncode:TCWC" ; Times: 1
+	Query: "distance(location,geopoint(39.881129919,-90.5451142735))&lt;6477" ; Times: 2
+	Query: "class:Amphibia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Helicops yacu" ; Times: 1
+	Query: "Myotis welwitschii" ; Times: 3
+	Query: "distance(location,geopoint(29.6913633355,-96.265222723))&lt;9047" ; Times: 1
+	Query: "genus:siren stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "mucus" ; Times: 1
+	Query: "tantilla cucullata" ; Times: 9
+	Query: "(&#34;dolly sods&#34;)" ; Times: 1
+	Query: "Pipistrellus vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1990 year &lt;= 1999 institutioncode:TCWC" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "sceloporus arenicolus" ; Times: 5
+	Query: "specificepithet:megalopterus genus:Campylorhynchus" ; Times: 1
+	Query: "genus:Sylvilagus family:Leporidae county:&#34;Wood&#34; stateprovince:&#34;Texas&#34; institutioncode:TCWC" ; Times: 1
+	Query: "distance(location,geopoint(45.139607633725,-94.0595528125))&lt;16675" ; Times: 2
+	Query: "specificepithet:Flavipes genus:Tringa class:Aves year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Myotis vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ursus luteolus" ; Times: 2
+	Query: "specificepithet:inornata genus:Micryletta institutioncode:TCWC" ; Times: 3
+	Query: "institutioncode:TCWC alcoholic pipistrellus hesperus" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates institutioncode:TCWC" ; Times: 3
+	Query: "family:Sphenodontidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:pileatus genus:Atlapetes" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus discolor " ; Times: 1
+	Query: "Rhadinaea cuneata" ; Times: 1
+	Query: "specificepithet:bassleri genus:Oscaecilia hastissue:1" ; Times: 1
+	Query: "specificepithet:affinis genus:Lepidocolaptes" ; Times: 1
+	Query: "specificepithet:pulcher genus:Barycholos institutioncode:TCWC" ; Times: 3
+	Query: "Micrurus filiformis" ; Times: 1
+	Query: "order:Rodentia preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "Lasiurus intermedius stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera" ; Times: 6
+	Query: "Heloderma horridum hastissue:1" ; Times: 2
+	Query: "class:amphibia stateprovince:&#34;San Luis Potosi&#34; year &gt;= 1969 year &lt;= 1970" ; Times: 1
+	Query: "greenbaum 1600" ; Times: 4
+	Query: "specificepithet:molossus genus:molossus sex:female institutioncode:TCWC" ; Times: 1
+	Query: "Xenosauridae hastissue:1" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic leptonycteris" ; Times: 2
+	Query: "Carphodactylidae hastissue:1" ; Times: 4
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:americana genus:Sporophila" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "specificepithet:candei genus:Manacus" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "specificepithet:montezuma genus:Psarocolius" ; Times: 1
+	Query: "Diphylla preparations:alcoholic institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:willardi genus:crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:cristata genus:Elaenia" ; Times: 1
+	Query: "morelia amethistina" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic phyllostomus" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "Leptonycteris yerbabuenae preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "Micrurus putumayensis" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:&#34;Texas&#34; catalognumber:95216" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:&#34;Texas&#34; catalognumber:95215" ; Times: 1
+	Query: "coniophanes quinquevittatus" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Panama&#34;" ; Times: 2
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 2
+	Query: "genus:Musonycteris institutioncode:TCWC" ; Times: 1
+	Query: "genus:pituophis county:&#34;Imperial&#34;" ; Times: 1
+	Query: "specificepithet:callidryas genus:Agalychnis institutioncode:TCWC" ; Times: 5
+	Query: "catalognumber:95208 institutioncode:TCWC" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:tadarida sex:female preparations:alcohol institutioncode:TCWC" ; Times: 1
+	Query: "Micrurus surinamensis" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2000 year &lt;= 2009 institutioncode:TCWC" ; Times: 1
+	Query: "Mesaspis antauges" ; Times: 1
+	Query: "specificepithet:belli genus:Basileuterus" ; Times: 1
+	Query: "10048 Myotis" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Catharus" ; Times: 1
+	Query: "Diplodactylidae hastissue:1 year&gt;2000" ; Times: 2
+	Query: "Coluber constrictor hastissue:1 year&gt;2005" ; Times: 1
+	Query: "genus:Parachromis" ; Times: 2
+	Query: "Dermatonotus muelleri mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(42.5689265032855,-90.6889959625))&lt;12926" ; Times: 2
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1980 year &lt;= 1989 institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:analis genus:Formicarius" ; Times: 1
+	Query: "Terrapene mexicana" ; Times: 1
+	Query: "Micrurus dumerilii" ; Times: 2
+	Query: "specificepithet:flavescens genus:Empidonax" ; Times: 1
+	Query: "specificepithet:guttata genus:pantherophis" ; Times: 2
+	Query: "specificepithet:rufivirgatus genus:Arremonops" ; Times: 1
+	Query: "specificepithet:melanonotus genus:Leptodactylus institutioncode:TCWC" ; Times: 3
+	Query: "vntype:specimen genus:Oscaecilia hastissue:1" ; Times: 1
+	Query: "Atherinidae hastissue:1" ; Times: 3
+	Query: "39454" ; Times: 1
+	Query: "specificepithet:rositae genus:Passerina" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera alcoholic phyllostomidae phyllostomus" ; Times: 1
+	Query: "Helodermatidae hastissue:1 captive" ; Times: 1
+	Query: "kinosternon flavescens arizona" ; Times: 2
+	Query: "specificepithet:annulata genus:Leptodeira stateprovince:&#34;Pastaza&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Microtus order:Rodentia preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 1
+	Query: "Leptonycteris vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Diplodactylidae hastissue:1" ; Times: 3
+	Query: "specificepithet:pantostictus genus:Herichthys family:Cichlidae" ; Times: 2
+	Query: "class:Amphibia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "Microtus preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:phaeocephalus genus:Cyphorhinus" ; Times: 1
+	Query: "porzana porzana vntype:specimen hastissue:1" ; Times: 2
+	Query: "specificepithet:laevis genus:Lepidobatrachus institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:hypochryseus genus:Vireo" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Laemanctus hastissue:1" ; Times: 2
+	Query: "sand boa" ; Times: 1
+	Query: "Lophostoma evotis" ; Times: 1
+	Query: "genus:coniophanes sex:male OR females" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Houston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 1
+	Query: "tcwc Ursus americanus" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34; institutioncode:TCWC" ; Times: 1
+	Query: "&#34;greenbaum, I F&#34; year &gt;= 1980 year &lt;= 2010" ; Times: 1
+	Query: "specificepithet:cuvieri genus:Physalaemus institutioncode:TCWC" ; Times: 3
+	Query: "genus:Pterophyllum" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "genus:Smilisca specificepithet:cyanosticta" ; Times: 2
+	Query: "institutioncode:tcwc chiroptera alcoholic rhinolophus" ; Times: 1
+	Query: "genus:Pseudoeurycea country:&#34;Mexico&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "specificepithet:nuchalis genus:Campylorhynchus" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "Micrurus limbatus" ; Times: 2
+	Query: "institutioncode:tcwc chiroptera alcoholic plecotus" ; Times: 1
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 1
+	Query: "Toxostoma curvirostre country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "Picoides villosus institutioncode:TCWC hastissue:1" ; Times: 1
+	Query: "egg b. r. ross" ; Times: 3
+	Query: "specificepithet:nigroviridis genus:Tangara" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "vntype:specimen continent:NORTH AMERICA recordedby:ARMSTRONG year &gt;= 1941 month &gt;= 10 month &lt;= 11" ; Times: 1
+	Query: "specificepithet:platydactyla genus:Bolitoglossa institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:fumigatus genus:Rhinolophus country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "Helodermatidae hastissue:1" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:TCWC" ; Times: 3
+	Query: "Abronia reidi" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:TCWC" ; Times: 4
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 1
+	Query: "specificepithet:nudiceps genus:Gymnocichla" ; Times: 1
+	Query: "vntype:specimen order:Testudines hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic Rhynchonycteris naso" ; Times: 1
+	Query: "Cynomops mexicanus" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "specificepithet:psittacus family:Cichlidae" ; Times: 1
+	Query: "Albulidae year &gt;= 1992 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "Campylorhynchus nuchalis hastissue:1" ; Times: 1
+	Query: "family:phyllostomidae institutioncode:TCWC" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic lasiurus" ; Times: 2
+	Query: "Micrurus ruatanus" ; Times: 1
+	Query: "specificepithet:passerinii genus:Ramphocelus" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "specificepithet:melanolomus genus:Mastigodryas" ; Times: 2
+	Query: "specificepithet:scripta genus:Trachemys mappable:1 year&gt;=2000" ; Times: 2
+	Query: "institutioncode:TCWC alcohol lonchophylla" ; Times: 1
+	Query: "Plethodon ocmulgee" ; Times: 1
+	Query: "genus:Cryptoheros" ; Times: 1
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 3
+	Query: "TCWC 65223" ; Times: 2
+	Query: "specificepithet:tyrannina genus:Cercomacra" ; Times: 1
+	Query: "Auriparus flaviceps hastissue:1" ; Times: 1
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "specificepithet:septentrionalis genus:Leptodeira country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;Trinity&#34;" ; Times: 1
+	Query: "specificepithet:pulcher genus:Andinoacara" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic myotis velifer" ; Times: 1
+	Query: "catalognumber:71632 institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:zweifeli genus:Oscaecilia" ; Times: 3
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "genus:Heterodon county:&#34;Trinity&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bufo cavifrons" ; Times: 1
+	Query: "specificepithet:Molurus genus:Python hastissue:1" ; Times: 1
+	Query: "conopsis nasus" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter AND (USA) hastissue:1" ; Times: 3
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "collections crustacean" ; Times: 1
+	Query: "Liophis miliaris hastissue:1" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Nicaragua&#34;" ; Times: 2
+	Query: "Lepidophyma tuxtlae" ; Times: 1
+	Query: "specificepithet:pectoralis genus:Icterus" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "monster" ; Times: 3
+	Query: "specificepithet:solitaria genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "Crotalus ravus" ; Times: 1
+	Query: "Phyllomedusa azurea mappable:1" ; Times: 1
+	Query: "campylorhynchus rufinucha rufinucha oaxaca" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Geothlypis" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Houston toad" ; Times: 8
+	Query: "specificepithet:leucotis genus:Melozone" ; Times: 1
+	Query: "ameiva exsul" ; Times: 1
+	Query: "genus:Archocentrus" ; Times: 1
+	Query: "genus:Thecadactylus country:&#34;Honduras&#34;" ; Times: 2
+	Query: "genus:Rana specificepithet:omiltemana" ; Times: 1
+	Query: "specificepithet:fulviventris genus:Hylopezus" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:maniculatus genus:peromyscus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "east texas wildlife" ; Times: 1
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus coibensis " ; Times: 1
+	Query: "institutioncode:TCWC alcoholic pipistrellus" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida sex:female preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Eurycea rathbuni" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "scincella silvicola" ; Times: 1
+	Query: "&#34;labeo parvus&#34;" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus institutioncode:TCWC" ; Times: 4
+	Query: "genus:Carphophis stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:virgatipes genus:Rana institutioncode:TCWC" ; Times: 3
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "genus:Oscaecilia year &gt;= 1950 hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus sex:female institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:gularis genus:Icterus" ; Times: 1
+	Query: "specificepithet:leucoptera genus:Piranga" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;kansas&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "Liophis typhlus hastissue:1" ; Times: 2
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:coypus genus:Myocastor mappable:1" ; Times: 1
+	Query: "specificepithet:wagleri genus:Icterus" ; Times: 1
+	Query: "specificepithet:minuta genus:Sporophila" ; Times: 1
+	Query: "class:Amphibia county:&#34;aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Phacellodomus" ; Times: 1
+	Query: "Bolitoglossa yucatana" ; Times: 1
+	Query: "specificepithet:leucogaster genus:Lepidocolaptes" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:polylepis genus:dendroaspis country:&#34;tanzania&#34;" ; Times: 1
+	Query: "specificepithet:jocosus genus:Campylorhynchus" ; Times: 1
+	Query: "specificepithet:anabatina genus:Dendrocincla" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Illinois&#34;" ; Times: 4
+	Query: "institutioncode:tcwc" ; Times: 2
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "specificepithet:stolzmanni genus:Tyranneutes" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:&#34;Texas&#34; catalognumber:95215 institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Micrurus psyches" ; Times: 1
+	Query: "specificepithet:tamasopoensis genus:Herichthys family:Cichlidae" ; Times: 1
+	Query: "Trachops preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:laevis genus:Occidozyga institutioncode:TCWC" ; Times: 3
+	Query: "country:Ecuador scientificname:Sturnira luisi " ; Times: 1
+	Query: "specificepithet:cinereigulare genus:Oncostoma" ; Times: 1
+	Query: "specificepithet:dives genus:Dives" ; Times: 1
+	Query: "specificepithet:aztecus genus:molossus" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Melanotis" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Petenia" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "green anaconda" ; Times: 2
+	Query: "specificepithet:taeniata genus:Batrachyla institutioncode:TCWC" ; Times: 3
+	Query: "country:Ecuador scientificname:Anoura aequatoris " ; Times: 5
+	Query: "genus:Caquetaia" ; Times: 2
+	Query: "Ambystoma cingulatum" ; Times: 2
+	Query: "hyla valancifer" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "cyclura dominican republic" ; Times: 1
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "drymarchon texas" ; Times: 1
+	Query: "class:Amphibia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dicrodon holmbergi" ; Times: 2
+	Query: "institutioncode:tcwc chiroptera alcoholic murina" ; Times: 1
+	Query: "specificepithet:xanthocephala genus:Tangara" ; Times: 1
+	Query: "Charina bottae Idaho" ; Times: 1
+	Query: "specificepithet:Nasicus genus:Heterodon county:&#34;Colorado&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "Ptychohyla macrotympanum" ; Times: 1
+	Query: "Crotalus intermedius stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:ferox genus:Myiarchus" ; Times: 1
+	Query: "specificepithet:lugubris genus:Quiscalus" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 2
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "sterna maxima skeleton vntype:specimen continent:america" ; Times: 1
+	Query: "specificepithet:decumanus genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:atriceps genus:Saltator" ; Times: 1
+	Query: "psammophis sudanensis" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic chiroderma salvini" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic corynorhinus mexicanus" ; Times: 2
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus" ; Times: 1
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:bassleri genus:Oscaecilia" ; Times: 7
+	Query: "class:Amphibia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera alcoholic" ; Times: 2
+	Query: "specificepithet:amaurocephalus genus:Leptopogon" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira stateprovince:&#34;Napo&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Lophostoma preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sterna maxima skeleton vntype:specimen continent:north america" ; Times: 1
+	Query: "Aythya collaris hastissue:1" ; Times: 2
+	Query: "institutioncode:TCWC alcoholic antrozous pallidus" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "genus:Megadontomys hastissue:1" ; Times: 1
+	Query: "specificepithet:virginianus genus:Colinus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "specificepithet:kraussii family:Cichlidae" ; Times: 1
+	Query: "Emballonuridae vntype:specimen institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "specificepithet:parzudakii genus:Tangara" ; Times: 1
+	Query: "specificepithet:gossypinus genus:peromyscus year&gt;=1950 year&lt;=2018" ; Times: 3
+	Query: "genus:Crotaphytus county:&#34;San Juan&#34; stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lithodytes institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:unicolor genus:Aphelocoma" ; Times: 1
+	Query: "TCWC Mammals 58688" ; Times: 1
+	Query: "scientificname:(Etheostoma microperca) country:United States mappable:1" ; Times: 1
+	Query: "heloderma horridum" ; Times: 3
+	Query: "genus:Chionactis class:reptilia county:&#34;IMPERIAL&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hypochondrialis genus:Phyllomedusa institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:gutturalis genus:Habia" ; Times: 1
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "specificepithet:paraphygus genus:uma" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Vaupes&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Dysommina" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 4
+	Query: "institutioncode:TCWC alcohol leptonycteris" ; Times: 1
+	Query: "Micrurus latifasciatus" ; Times: 1
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "genus:Hoplarchus" ; Times: 1
+	Query: "genus:lonchophylla family:phyllostomidae institutioncode:TCWC" ; Times: 1
+	Query: "Anolis vermiculatus" ; Times: 3
+	Query: "specificepithet:occidentalis genus:Odontophrynus institutioncode:TCWC" ; Times: 3
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "brama dussumieri" ; Times: 1
+	Query: "greenbaum 1791" ; Times: 4
+	Query: "greenbaum 1790" ; Times: 2
+	Query: "institutioncode:tcwc chiroptera alcoholic antrozous" ; Times: 1
+	Query: "Micrurus distans" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Rhynchonycteris vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "distance(location,geopoint(44.7957496956751,-91.7467886332316))&lt;28569" ; Times: 1
+	Query: "family:phyllostomidae preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:cinereum genus:Todirostrum" ; Times: 1
+	Query: "specificepithet:superciliosa genus:Parula" ; Times: 1
+	Query: "vntype:specimen genus:Caecilia hastissue:1" ; Times: 1
+	Query: "county:&#34;Los Angeles&#34; recordedby:Jones year &gt;= 1966 year &lt;= 1968" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis" ; Times: 2
+	Query: "institutioncode:TCWC Rhynchonycteris naso" ; Times: 1
+	Query: "gbifdatasetid:b6015b60-6f96-43a9-88e5-2f41854e8f07 chiroptera" ; Times: 1
+	Query: "crex vntype:specimen hastissue:1" ; Times: 1
+	Query: "Micrurus isozonus" ; Times: 1
+	Query: "specificepithet:dumerilii genus:Micrurus country:&#34;Colombia&#34;" ; Times: 3
+	Query: "specificepithet:dryas genus:Catharus" ; Times: 1
+	Query: "jackson sistrurus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Los Santos&#34; country:&#34;Panama&#34; institutioncode:TCWC" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 3
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:TCWC" ; Times: 3
+	Query: "ameiva exsul specificepithet:exsul genus:ameiva institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus stateprovince:&#34;Queretaro&#34;" ; Times: 1
+	Query: "Bolitoglossa lignicolor" ; Times: 1
+	Query: "Rhynchonycteris vntype:specimen institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lepidobatrachus laevis" ; Times: 1
+	Query: "Leptonycteris yerbabuenae vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:attenuatus genus:Ophisaurus stateprovince:&#34;Florida&#34; hastissue:1" ; Times: 2
+	Query: "Heterodon nasicus gloydi" ; Times: 1
+	Query: "pontianak" ; Times: 1
+	Query: "Auriparus flaviceps country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "atheris hastissue:1" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic lonchophylla" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34; institutioncode:TCWC" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Micrurus petersi" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 2
+	Query: "specificepithet:fulvicauda genus:Phaeothlypis" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:&#34;Texas&#34; institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "specificepithet:superciliosus genus:Oriturus" ; Times: 1
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;new mexico&#34; year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "genus:Oscaecilia" ; Times: 2
+	Query: "family:Bufonidae county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:cornutum genus:phrynosoma stateprovince:&#34;new mexico&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Andinoacara" ; Times: 1
+	Query: "specificepithet:lachrymosa genus:Euthlypis" ; Times: 1
+	Query: "specificepithet:bidentata genus:Piranga" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera alcoholic vespertilionidae" ; Times: 2
+	Query: "graptemys caglei" ; Times: 9
+	Query: "Micronycteris schmidtorum" ; Times: 1
+	Query: "genus:asio country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:leptopus genus:Batrachyla institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:pleei genus:Mastigodryas" ; Times: 4
+	Query: "class:Amphibia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Rhogeessa country:&#34;Nicaragua&#34;" ; Times: 3
+	Query: "Rattus order:Rodentia preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "Proechimys semispinosus order:Rodentia preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "institutioncode:TCWC alcohol vespertilionidae" ; Times: 2
+	Query: "specificepithet:fasciata genus:Patagioenas hastissue:1" ; Times: 1
+	Query: "crotalus ravus" ; Times: 2
+	Query: "distance(location,geopoint(44.0488918737493,-91.5628435737312))&lt;20113" ; Times: 1
+	Query: "Anelytropsis papillosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:epinephelus hastissue:1" ; Times: 1
+	Query: "D. B. Rogers" ; Times: 1
+	Query: "Protopterus dolloi" ; Times: 1
+	Query: "Coleonyx Jalisco" ; Times: 1
+	Query: "CM 9041" ; Times: 1
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "genus:dendroaspis country:&#34;tanzania&#34;" ; Times: 6
+	Query: "specificepithet:pica genus:Fluvicola" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;yavapai&#34; stateprovince:&#34;Arizona&#34; country:&#34;United States&#34; basisofrecord:PreservedSpecimen mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:lima genus:Occidozyga institutioncode:TCWC" ; Times: 3
+	Query: "Antrozous vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Squamata county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Platysternon" ; Times: 2
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "Perognathus order:Rodentia preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "crotalus willardi obscurus" ; Times: 1
+	Query: "mudpuppy" ; Times: 1
+	Query: "specificepithet:guttata genus:Tangara" ; Times: 1
+	Query: "specificepithet:inquisitor genus:Tityra" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "specificepithet:catesbeiana genus:Rana institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:angolensis genus:Oryzoborus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis institutioncode:TCWC" ; Times: 2
+	Query: "institutioncode:tcwc chiroptera alcoholic natalus" ; Times: 1
+	Query: "specificepithet:grammodes genus:Cichlasoma" ; Times: 2
+	Query: "genus:agkistrodon county:&#34;presidio&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus pyrrhus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 2
+	Query: "specificepithet:chrysopeplus genus:Pheucticus" ; Times: 1
+	Query: "specificepithet:paradoxa genus:Pseudis institutioncode:TCWC" ; Times: 3
+	Query: "Phyllodactylus hispaniolae" ; Times: 2
+	Query: "specificepithet:irroratus genus:liomys institutioncode:TCWC hastissue:1" ; Times: 2
+	Query: "specificepithet:japonica genus:Rana institutioncode:TCWC" ; Times: 3
+	Query: "institutioncode:tcwc chiroptera alcoholic vampyrum" ; Times: 1
+	Query: "specificepithet:natalensis genus:Phrynobatrachus institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:maculipectus genus:Thryothorus" ; Times: 1
+	Query: "amazilia cyanura" ; Times: 1
+	Query: "scientificname:Lepidoblepharis festae " ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida sex:female institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:exsanguis class:Reptilia county:&#34;Dona Ana&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:erythropygius genus:Xiphorhynchus" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera alcoholic anoura" ; Times: 1
+	Query: "specificepithet:gularis genus:Paroaria" ; Times: 1
+	Query: "class:Reptilia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "40447" ; Times: 2
+	Query: "Myotis velifer vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bulleri family:Procellariidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:taeniatus genus:Peucedramus" ; Times: 1
+	Query: "Red milk snake" ; Times: 1
+	Query: "genus:Oscaecilia hastissue:1" ; Times: 14
+	Query: "specificepithet:bicolor genus:Tiaris" ; Times: 1
+	Query: "specificepithet:martinica genus:Elaenia" ; Times: 1
+	Query: "class:Reptilia country:&#34;Nicaragua&#34; AND (NOT ANOLIS NOT AMEIVA) institutioncode:TCWC" ; Times: 2
+	Query: "institutioncode:TCWC alcoholic lonchophylla handleyi" ; Times: 1
+	Query: "specificepithet:acarpicus genus:Insuetophrynus institutioncode:TCWC" ; Times: 3
+	Query: "collections crabs" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;yavapai&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Leptonycteris preparations:alcoholic institutioncode:TCWC" ; Times: 3
+	Query: "27634" ; Times: 1
+	Query: "Thamnophis scalaris" ; Times: 1
+	Query: "genus:Sistrurus county:&#34;Houston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:carens genus:Schismaderma institutioncode:TCWC" ; Times: 3
+	Query: "institutioncode:TCWC alcoholic phyllostomus hastatus" ; Times: 1
+	Query: "scientificname:(Scaphirhynchus platorynchus) country:United States mappable:1" ; Times: 1
+	Query: "Micrurus langsdorffi" ; Times: 1
+	Query: "specificepithet:irroratus genus:Liomys hastissue:1" ; Times: 2
+	Query: "Dipodomys order:Rodentia preparations:alcoholic institutioncode:TCWC" ; Times: 2
+	Query: "specificepithet:rosea genus:Rhodinocichla" ; Times: 1
+	Query: "specificepithet:efasciatus family:Cichlidae" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;matagorda&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "diadophis punctatus regalis" ; Times: 2
+	Query: "sceloporus salvini" ; Times: 1
+	Query: "specificepithet:Lateralis county:&#34;TRinity&#34;" ; Times: 1
+	Query: "specificepithet:guttatus genus:pantherophis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Mason&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:gratus genus:Peromyscus hastissue:1" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic uroderma bilobatum" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:&#34;Texas&#34; catalognumber:95216 institutioncode:TCWC" ; Times: 2
+	Query: "specificepithet:exsanguis class:Reptilia county:&#34;El Paso&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:exsul genus:uma hastissue:1" ; Times: 2
+	Query: "institutioncode:tcwc chiroptera alcoholic pipistrellus" ; Times: 1
+	Query: "specificepithet:elator genus:Dipodomys" ; Times: 2
+	Query: "institutioncode:TCWC alcoholic vespertilionidae" ; Times: 1
+	Query: "specificepithet:jamaicensis genus:artibeus institutioncode:TCWC" ; Times: 2
+	Query: "specificepithet:cornutum genus:phrynosoma county:&#34;union&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "specificepithet:mcleannani genus:Phaenostictus" ; Times: 1
+	Query: "bothrops hastissue:1" ; Times: 2
+	Query: "institutioncode:tcwc chiroptera alcoholic phyllostomidae" ; Times: 4
+	Query: "Micrurus dissoleucus" ; Times: 1
+	Query: "specificepithet:pipiens genus:Rana institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:thaul genus:Pleurodema institutioncode:TCWC" ; Times: 3
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:holmbergi genus:Dicrodon" ; Times: 3
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;San Mateo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Caecilia hastissue:1" ; Times: 11
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:imberbe genus:Camptostoma" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "Micrurus pyrrhocryptus" ; Times: 1
+	Query: "Eleutherodactylus laticeps" ; Times: 2
+	Query: "genus:Tomocichla family:Cichlidae" ; Times: 1
+	Query: "Micrurus spixii" ; Times: 1
+	Query: "24432" ; Times: 2
+	Query: "Liophis poecilogyrus hastissue:1" ; Times: 1
+	Query: "Oscaecilia" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa institutioncode:TCWC" ; Times: 1
+	Query: "crotalus cerastes sonora" ; Times: 1
+	Query: "specificepithet:edulis genus:Pyxicephalus institutioncode:TCWC" ; Times: 3
+	Query: "buteo jamaicensis harlani hastissue:1" ; Times: 1
+	Query: "specificepithet:phaeocercus genus:Mitrephanes" ; Times: 1
+	Query: "Neotrygon" ; Times: 1
+	Query: "podocnemis unifilis" ; Times: 1
+	Query: "Pseudoeurycea werleri" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "specificepithet:leucotis genus:Thryothorus" ; Times: 1
+	Query: "TCWC Mammals 57970" ; Times: 1
+	Query: "Taphozous vntype:specimen institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:holbrookii genus:Scaphiopus institutioncode:TCWC" ; Times: 3
+	Query: "Myotis carteri" ; Times: 1
+	Query: "specificepithet:coronatum genus:Phrynosoma county:&#34;San Diego&#34;" ; Times: 2
+	Query: "specificepithet:chinensis genus:Hyla institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:heymonsi genus:Microhyla institutioncode:TCWC" ; Times: 3
+	Query: "solola reptilia" ; Times: 1
+	Query: "Cardinalis sinuatus hastissue:1" ; Times: 1
+	Query: "neocrex vntype:specimen hastissue:1" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 2
+	Query: "specificepithet:gabonicus genus:Scotobleps institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:curviceps genus:Laetacara" ; Times: 1
+	Query: "lepidophyma sylvaticum" ; Times: 1
+	Query: "specificepithet:kieneri genus:Melozone" ; Times: 1
+	Query: "distance(location,geopoint(41.877340882143,-90.2280541665))&lt;24154" ; Times: 2
+	Query: "specificepithet:flavipes genus:tringa year &gt;= 1990 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "phrynosoma cornutum stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic uroderma" ; Times: 1
+	Query: "specificepithet:atricristatus genus:Baeolophus" ; Times: 1
+	Query: "71073" ; Times: 1
+	Query: "class:Amphibia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pseudoeurycea galeanae" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Oedipina pacificensis" ; Times: 1
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "specificepithet:venustus genus:Granatellus" ; Times: 1
+	Query: "buteo jamaicensis harlani institutioncode:TCWC hastissue:1" ; Times: 1
+	Query: "specificepithet:fenestrata family:Cichlidae institutioncode:TCWC" ; Times: 2
+	Query: "specificepithet:cyanoides genus:Cyanocompsa" ; Times: 1
+	Query: "genus:Ambystoma specificepithet:taylori" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 4
+	Query: "specificepithet:tigrinum genus:Ambystoma stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "Eurycea latitans" ; Times: 1
+	Query: "specificepithet:tetracanthus family:Cichlidae" ; Times: 2
+	Query: "specificepithet:bovinus genus:Cyprinodon" ; Times: 3
+	Query: "specificepithet:intermedia genus:Sporophila" ; Times: 1
+	Query: "crotalus pricei arizona" ; Times: 3
+	Query: "specificepithet:floridanus genus:Sylvilagus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic rhynchonycteris" ; Times: 1
+	Query: "specificepithet:dissoleucus genus:Micrurus country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Houston&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:atroflavus genus:Pogoniulus" ; Times: 1
+	Query: "genus:naja preparations:skeleton" ; Times: 2
+	Query: "institutioncode:TCWC alcohol antrozous pallidus" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera alcoholic taphozous" ; Times: 2
+	Query: "specificepithet:crepitans genus:Acris institutioncode:TCWC" ; Times: 6
+	Query: "distance(location,geopoint(41.0082879640365,-89.3925110450531))&lt;13315" ; Times: 1
+	Query: "genus:Leptodactylus specificepithet:macrosternum" ; Times: 5
+	Query: "rioraja agassizii" ; Times: 4
+	Query: "Ophryacus hastissue:1" ; Times: 5
+	Query: "specificepithet:erythrocephala genus:Pipra" ; Times: 1
+	Query: "genus:Amphilophus" ; Times: 3
+	Query: "18002" ; Times: 1
+	Query: "Lasiurus cinereus vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "kinosternon herrerai" ; Times: 1
+	Query: "specificepithet:mesomelas genus:Icterus" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:&#34;Texas&#34; catalognumber:95222 institutioncode:TCWC" ; Times: 2
+	Query: "Corynorhinus vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:dammah" ; Times: 1
+	Query: "Paleosuchus palpebrosus" ; Times: 3
+	Query: "specificepithet:aquaticus genus:Sylvilagus family:Leporidae stateprovince:&#34;Texas&#34; institutioncode:TCWC" ; Times: 1
+	Query: "institutioncode:TCWC alcohol uroderma bilobatum" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Bernalillo&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:erythrothorax genus:Synallaxis" ; Times: 1
+	Query: "Psammophis leithi" ; Times: 1
+	Query: "specificepithet:parellina genus:Cyanocompsa" ; Times: 1
+	Query: "specificepithet:nuttingi genus:Myiarchus" ; Times: 1
+	Query: "specificepithet:multiplicata genus:Spea institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:ophthalmicus genus:Chlorospingus" ; Times: 1
+	Query: "Morone americana " ; Times: 1
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 2
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "genus:glaucidium country:&#34;china&#34;" ; Times: 3
+	Query: "specificepithet:longirostris genus:Rallus stateprovince:&#34;California&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Liophis typhlus" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "institutioncode:TCWC alcohol Myotis" ; Times: 2
+	Query: "genus:crotalus county:&#34;madera&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Eleutherodactylus megalotympanum" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 2018" ; Times: 1
+	Query: "distance(location,geopoint(43.8214476702145,-91.3120372855))&lt;21629" ; Times: 2
+	Query: "Micrurus mipartitus" ; Times: 2
+	Query: "specificepithet:yncas genus:Cyanocorax" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "atlantoraja castelnaui" ; Times: 2
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:TCWC" ; Times: 3
+	Query: "Heloderma horridum" ; Times: 6
+	Query: "specificepithet:stergiosi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:robusta genus:Lonchophylla institutioncode:TCWC" ; Times: 1
+	Query: "genus:Lontra stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pardirallus vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:orientalis genus:Bombina institutioncode:TCWC" ; Times: 3
+	Query: "Wakulla county farancia" ; Times: 1
+	Query: "HYLA VALANCIFER" ; Times: 1
+	Query: "genus:Abronia class:Reptilia" ; Times: 7
+	Query: "specificepithet:stelzneri genus:Melanophryniscus institutioncode:TCWC" ; Times: 3
+	Query: "institutioncode:tcwc chiroptera alcoholic emballonuridae" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus" ; Times: 1
+	Query: "specificepithet:guianensis genus:Phimophis country:&#34;Suriname&#34;" ; Times: 1
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:fuscus genus:eptesicus institutioncode:TCWC" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Puebla&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "gbifdatasetid:b6015b60-6f96-43a9-88e5-2f41854e8f07" ; Times: 5
+	Query: "institutioncode:TCWC alcoholic Myotis" ; Times: 3
+	Query: "specificepithet:fenestrata genus:Vieja" ; Times: 2
+	Query: "recordnumber:IFG year &gt;= 1980 year &lt;= 2010" ; Times: 1
+	Query: "big bend black headed snake" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "University of Texas at Arlington" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera alcoholic nycteris" ; Times: 1
+	Query: "specificepithet:affinis genus:Empidonax" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Rhinophrynus institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:planirostris genus:Eleutherodactylus institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:aurantiirostris genus:Arremon" ; Times: 1
+	Query: "specificepithet:coronata genus:Paroaria" ; Times: 1
+	Query: "genus:Oscaecilia year &gt;= 1950" ; Times: 1
+	Query: "chiropterotriton magnipes" ; Times: 4
+	Query: "amblyodipsas unicolor" ; Times: 6
+	Query: "specificepithet:annulata genus:Leptodeira locality:Corozo Pando stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 2
+	Query: "bufo houstonensis TCWC" ; Times: 2
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 2
+	Query: "Atherinidae year &gt;= 1995 year &lt;= 2018 hastissue:1" ; Times: 2
+	Query: "institutioncode:TCWC alcoholic rhynchonycteris naso" ; Times: 2
+	Query: "eunectes murinus" ; Times: 2
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 2
+	Query: "specificepithet:molossus genus:Crotalus locality:Huachuca county:&#34;cochise&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Trinity&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:caerulea genus:Litoria institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:annulata genus:Leptodeira stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 2
+	Query: "catalognumber:12103.01 institutioncode:TCWC" ; Times: 4
+	Query: "specificepithet:cyanophlyctis genus:Euphlyctis institutioncode:TCWC" ; Times: 3
+	Query: "TCWC 16048" ; Times: 1
+	Query: "Mus musculus order:Rodentia preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Puebla&#34; country:&#34;Mexico&#34; hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 2
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "Dendrobates leucomelas" ; Times: 1
+	Query: "Terrapene institutioncode:TCWC hastissue:1" ; Times: 1
+	Query: "specificepithet:miliarius genus:sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Reptilia Escuinapa" ; Times: 1
+	Query: "Gastrophryne elegans" ; Times: 1
+	Query: "Hapsidophrys" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "Chiroptera vntype:specimen institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 4
+	Query: "specificepithet:melanocyaneus genus:Cyanocorax" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "country:Ecuador scientificname:Lophostoma occidentalis " ; Times: 2
+	Query: "genus:platalina family:phyllostomidae institutioncode:TCWC" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:cupreus genus:Leptophis" ; Times: 2
+	Query: "specificepithet:cyanicollis genus:Tangara" ; Times: 1
+	Query: "Lampropeltis smithi" ; Times: 2
+	Query: "Pipistrellus hesperus vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Reptilia county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1947 year &lt;= 1950" ; Times: 2
+	Query: "Lonchophylla vntype:specimen preparations:alcoholic institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 1
+	Query: "genus:Chiropterotriton country:&#34;Mexico&#34; institutioncode:TCWC" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 3
+	Query: "specificepithet:colymbiphyllum genus:Hyalinobatrachium institutioncode:TCWC" ; Times: 3
+	Query: "bufo houstonensis" ; Times: 9
+	Query: "institutioncode:TCWC alcohol lasiurus borealis" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Tiaris" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa institutioncode:TCWC" ; Times: 3
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;ellis&#34; stateprovince:&#34;kansas&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Gopherus country:&#34;Mexico&#34; mappable:1" ; Times: 1
+	Query: "micrurus distans" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia" ; Times: 1
+	Query: "institutioncode:TCWC" ; Times: 1
+	Query: "Myotis tricolor" ; Times: 1
+	Query: "genus:necturus stateprovince:&#34;arkansas&#34; AND (NOT &#34;AR route 14&#34;)" ; Times: 1
+	Query: "specificepithet:taurinus genus:Osteocephalus institutioncode:TCWC" ; Times: 3
+	Query: "Rio pesqueria" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic chiroderma" ; Times: 1
+	Query: "Micrurus ornatissimus" ; Times: 1
+	Query: "specificepithet:laevis genus:Xenopus mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "specificepithet:albiloris genus:Polioptila" ; Times: 1
+	Query: "specificepithet:berlandieri genus:Rana institutioncode:TCWC" ; Times: 3
+	Query: "class:Amphibia county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "micrurus alleni" ; Times: 1
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:brachyura genus:Synallaxis" ; Times: 1
+	Query: "institutioncode:TCWC alcohol myotis velifer" ; Times: 1
+	Query: "institutioncode:TCWC alcohol lonchophylla robusta" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera alcoholic corynorhinus" ; Times: 1
+	Query: "Lophostoma institutioncode:TCWC" ; Times: 1
+	Query: "institutioncode:TCWC alcoholic leptonycteris yerbabuenae" ; Times: 2
+	Query: "sterna maxima skeleton vntype:specimen" ; Times: 2
+	Query: "institutioncode:TCWC alcoholic corynorhinus" ; Times: 1
+	Query: "Eurycea tridentifera" ; Times: 1
+	Query: "catalognumber:93533 institutioncode:TCWC" ; Times: 2
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "Dipodomys merriami preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "Micrurus hemprichii" ; Times: 1
+	Query: "Micrurus browni" ; Times: 3
+	Query: "genus:coleonyx country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Micrurus obscurus" ; Times: 1
+	Query: "genus:Hypsophrys" ; Times: 1
+	Query: "institutioncode:TCWC alcohol pipistrellus hesperus" ; Times: 1
+	Query: "specificepithet:vultuosa genus:Acaronia" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "specificepithet:poliocephala genus:Geothlypis" ; Times: 1
+	Query: "order:Chiroptera locality:Tlaxcala" ; Times: 1
+	Query: "specificepithet:irroratus hastissue:1" ; Times: 2
+	Query: "genus:caecilia hastissue:1" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;TRinity&#34;" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis mappable:1 year&gt;=2000" ; Times: 1
+	Query: "TCWC 24907" ; Times: 1
+	Query: "genus:Thecadactylus locality:La Ceiba country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Phyllomedusa specificepithet:bicolor" ; Times: 1
+	Query: "specificepithet:pleurostictus genus:Thryothorus" ; Times: 1
+	Query: "Lampronycteris brachyotis" ; Times: 1
+	Query: "Tonatia preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:arenicolus genus:Sceloporus stateprovince:&#34;Texas&#34; catalognumber:95222" ; Times: 1
+	Query: "specificepithet:picta genus:Chrysemys mappable:1 year&gt;=2000" ; Times: 1
+	Query: "Ambystoma tigrinum velascoi" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Cordoba&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 1
+	Query: "vntype:specimen specificepithet:adscensionis genus:epinephelus hastissue:1" ; Times: 1
+	Query: "specificepithet:flaveola genus:Sicalis" ; Times: 1
+	Query: "specificepithet:arenarum genus:Sublegatus" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "institutioncode:TCWC alcoholic lasiurus borealis" ; Times: 1
+	Query: "collections n. w. gulf of mexico" ; Times: 1
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 2
+	Query: "institutioncode:TCWC alcoholic Myotis velifer" ; Times: 1
+	Query: "class:Reptilia country:&#34;Nicaragua&#34; institutioncode:TCWC" ; Times: 1
+	Query: "black-headed snake" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 364 (out of 1178 download events in this period)
+Total number of records downloaded: 71028
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 3
+	Country: Mexico ; Times: 130
+	Country: Unknown ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 6
+	Country: Austria ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: United States ; Times: 102
+	Country: Spain ; Times: 96
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 7
+	Date: 2018-05-20 ; Times: 9
+	Date: 2018-05-21 ; Times: 21
+	Date: 2018-05-22 ; Times: 10
+	Date: 2018-05-23 ; Times: 12
+	Date: 2018-05-24 ; Times: 4
+	Date: 2018-05-25 ; Times: 8
+	Date: 2018-05-26 ; Times: 19
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 9
+	Date: 2018-05-07 ; Times: 23
+	Date: 2018-05-04 ; Times: 6
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 12
+	Date: 2018-05-03 ; Times: 7
+	Date: 2018-05-01 ; Times: 11
+	Date: 2018-05-08 ; Times: 7
+	Date: 2018-05-09 ; Times: 49
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 9
+	Date: 2018-05-15 ; Times: 3
+	Date: 2018-05-14 ; Times: 11
+	Date: 2018-05-17 ; Times: 17
+	Date: 2018-05-16 ; Times: 15
+	Date: 2018-05-11 ; Times: 9
+	Date: 2018-05-10 ; Times: 2
+	Date: 2018-05-13 ; Times: 22
+	Date: 2018-05-12 ; Times: 7
+	Date: 2018-05-19 ; Times: 24
+	Date: 2018-05-18 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "Rana berlandieri" ; Times: 1
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Plethodon dunni" ; Times: 1
+	Query: "Plethodon yonahlossee" ; Times: 1
+	Query: "Hynobius nebulosus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Giles&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "specificepithet:callotis genus:Lepus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Bolitoglossa lignicolor" ; Times: 2
+	Query: "Bothrops asper" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Gastrophryne usta" ; Times: 1
+	Query: "Bufo houstonensis" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Lepidophyma pajapanensis" ; Times: 1
+	Query: "Terrapene mexicana" ; Times: 1
+	Query: "Lampropeltis annulata" ; Times: 1
+	Query: "kinosternon integrum" ; Times: 1
+	Query: "Chiropterotriton chiropterus" ; Times: 2
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:asio country:&#34;china&#34;" ; Times: 1
+	Query: "Anelytropsis papillosus" ; Times: 1
+	Query: "Abronia vntype:specimen (Reptilia)" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;Los angeles&#34;" ; Times: 1
+	Query: "Ambystoma jeffersonianum" ; Times: 1
+	Query: "genus:lonchophylla family:phyllostomidae institutioncode:TCWC" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Sphaerodactylus glaucus" ; Times: 1
+	Query: "specificepithet:onca genus:panthera basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "laemanctus longipes" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Dermophis mexicanus" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "genus:Pseudoeurycea country:&#34;Mexico&#34; institutioncode:TCWC" ; Times: 1
+	Query: "vntype:specimen specificepithet:rhami genus:lamprolaima country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "institutioncode:tcwc chiroptera alcoholic phyllostomidae" ; Times: 1
+	Query: "Atropoides nummifer" ; Times: 1
+	Query: "specificepithet:anna genus:Calypte" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Micrurus limbatus" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "family:phyllostomidae preparations:alcoholic institutioncode:TCWC" ; Times: 1
+	Query: "Eurycea tynerensis" ; Times: 1
+	Query: "Ambystoma texanum" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Chiropterotriton magnipes" ; Times: 1
+	Query: "Necturus alabamensis" ; Times: 1
+	Query: "Bolitoglossa mexicana" ; Times: 2
+	Query: "Eurycea latitans" ; Times: 1
+	Query: "Oedipina pacificensis" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Catherpes hasmass:1" ; Times: 1
+	Query: "kinosternon herrerai" ; Times: 1
+	Query: "Desmognathus auriculatus" ; Times: 1
+	Query: "Bolitoglossa striatula" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Desmognathus brimleyorum" ; Times: 1
+	Query: "Bolitoglossa rufescens" ; Times: 2
+	Query: "Paleosuchus palpebrosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufus genus:selasphorus country:&#34;mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Amphibia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:muscosa genus:Rana" ; Times: 1
+	Query: "Imantodes gemmistratus" ; Times: 1
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "Pseudoeurycea galeanae" ; Times: 1
+	Query: "Rhadinaea cuneata" ; Times: 1
+	Query: "Thamnophis sumichrasti" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 1
+	Query: "Bolitoglossa platydactyla" ; Times: 2
+	Query: "Serpentes" ; Times: 1
+	Query: "Icterus gularis hastissue:1" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "scincella silvicola" ; Times: 1
+	Query: "Eurycea lucifuga" ; Times: 1
+	Query: "brunneinucha" ; Times: 1
+	Query: "Plethodon ocmulgee" ; Times: 2
+	Query: "Oedipina poelzi" ; Times: 1
+	Query: "Chiroptera vntype:specimen institutioncode:TCWC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:sonora sex:male OR female" ; Times: 1
+	Query: "vntype:specimen class:Amphibia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "genus:glaucidium country:&#34;china&#34;" ; Times: 1
+	Query: "specificepithet:gambeli genus:Poecile hastissue:1" ; Times: 1
+	Query: "Bolitoglossa yucatana" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Rana sphenocephala" ; Times: 1
+	Query: "Chiropterotriton priscus" ; Times: 1
+	Query: "abronia" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "class:amphibia country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Hyla plicata" ; Times: 1
+	Query: "class:Amphibia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "genus:Oscaecilia" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "Mesaspis antauges" ; Times: 1
+	Query: "Ambystoma tigrinum velascoi" ; Times: 1
+	Query: "Bolitoglossa subpalmata" ; Times: 1
+	Query: "Hybrid vntype:specimen class:Aves" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34; year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "Tantilla rubra" ; Times: 1
+	Query: "class:Reptilia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter AND (USA) hastissue:1" ; Times: 2
+	Query: "palliata" ; Times: 2
+	Query: "Thamnophis chrysocephalus" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Sigmodon leucotis" ; Times: 1
+	Query: "class:Amphibia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Rhogeessa country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lepidophyma tuxtlae" ; Times: 1
+	Query: "vntype:specimen specificepithet:yucatanensis genus:Amazilia country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Ambystoma laterale" ; Times: 1
+	Query: "genus:coniophanes sex:male OR female" ; Times: 1
+	Query: "Thamnophis eques" ; Times: 1
+	Query: "Chiropterotriton dimidiatus" ; Times: 1
+	Query: "specificepithet:polyglottos genus:Mimus hasmass:1" ; Times: 1
+	Query: "virenticeps" ; Times: 1
+	Query: "genus:cophosaurus sex:male OR female" ; Times: 1
+	Query: "genus:pseudemys sex:male OR female" ; Times: 1
+	Query: "Bolitoglossa occidentalis" ; Times: 2
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "laemanctus serratus" ; Times: 2
+	Query: "Pseudobranchus axanthus" ; Times: 1
+	Query: "genus:nerodia sex:male OR female" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis hastissue:1" ; Times: 1
+	Query: "cynanthus sordidus" ; Times: 1
+	Query: "Dicamptodon copei" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:barbatus genus:Pycnonotus hastissue:1" ; Times: 1
+	Query: "order:Squamata county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Platysternon" ; Times: 1
+	Query: "Abronia reidi" ; Times: 1
+	Query: "genus:alligator sex:male OR female" ; Times: 1
+	Query: "Ctenosaura acanthura" ; Times: 1
+	Query: "oedipina" ; Times: 1
+	Query: "Pseudoeurycea gadovii" ; Times: 2
+	Query: "Bufo cavifrons" ; Times: 1
+	Query: "puffinus creatopus" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Bufo punctatus" ; Times: 1
+	Query: "Siren intermedia" ; Times: 2
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "dermatemys mawii" ; Times: 1
+	Query: "Xenosaurus grandis" ; Times: 1
+	Query: "Ambystoma ordinarium" ; Times: 1
+	Query: "Phaeognathus hubrichti" ; Times: 1
+	Query: "dicamptodon ensatus" ; Times: 1
+	Query: "Coleonyx elegans" ; Times: 1
+	Query: "Bolitoglossa hartwegi" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "genus:rhinocheilus sex:male OR female" ; Times: 1
+	Query: "specificepithet:frenata genus:mustela haslength:1" ; Times: 1
+	Query: "Plethodon wehrlei" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Crotalus intermedius" ; Times: 1
+	Query: "Eurycea nana" ; Times: 1
+	Query: "class:REPTILIA stateprovince:&#34;SINALOA&#34;" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Eleutherodactylus berkenbuschii" ; Times: 1
+	Query: "pituophis deppei" ; Times: 1
+	Query: "Pseudoeurycea leprosa" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Eurycea rathbuni" ; Times: 1
+	Query: "Agkistrodon taylori" ; Times: 1
+	Query: "Thamnophis proximus" ; Times: 1
+	Query: "class:amphibia country:&#34;Guatemala&#34;" ; Times: 1
+	Query: "Hypsignathus monstrosus" ; Times: 1
+	Query: "Desmognathus marmoratus" ; Times: 1
+	Query: "class:Amphibia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Haideotriton wallacei" ; Times: 1
+	Query: "Lepidophyma flavimaculatum" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Eleutherodactylus megalotympanum" ; Times: 1
+	Query: "Tlaxcala" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:dorsalis genus:Dipsosaurus" ; Times: 1
+	Query: "genus:Chiropterotriton country:&#34;Mexico&#34; institutioncode:TCWC" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "class:Amphibia county:&#34;Aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Imantodes cenchoa" ; Times: 2
+	Query: "Eurycea multiplicata" ; Times: 1
+	Query: "specificepithet:exsul genus:uma" ; Times: 1
+	Query: "specificepithet:varia genus:strix hastissue:1" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "Eleutherodactylus laticeps" ; Times: 1
+	Query: "Leptodeira cussiliris" ; Times: 1
+	Query: "specificepithet:nelsoni genus:chaetodipus" ; Times: 1
+	Query: "salvadora bairdi" ; Times: 1
+	Query: "Thamnophis cyrtopsis" ; Times: 1
+	Query: "genus:Atlapetes hastissue:1" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "bufo houstonensis" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Cundinamarca&#34; country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Oscaecilia hastissue:1" ; Times: 1
+	Query: "class:Amphibia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "sterna maxima skeleton vntype:specimen" ; Times: 1
+	Query: "Staurotypus triporcatus" ; Times: 1
+	Query: "vntype:specimen class:reptilia haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "specificepithet: thalassina genus:Tachycineta hasmass:1" ; Times: 1
+	Query: "Alouatta palliata" ; Times: 2
+	Query: "class:Amphibia county:&#34;aransas&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "OJO DE AGUA (VERACRUZ)" ; Times: 1
+	Query: "Plethodon dorsalis" ; Times: 1
+	Query: "class:Reptilia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Barisia imbricata" ; Times: 1
+	Query: "Desmognathus quadramaculatus" ; Times: 1
+	Query: "Thamnophis scalaris" ; Times: 1
+	Query: "Plethodon angusticlavius" ; Times: 1
+	Query: "class:Reptilia county:&#34;Nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dipodomys ornatus" ; Times: 1
+	Query: "Dicamptodon ensatus" ; Times: 1
+	Query: "Plethodon albagula" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "genus:arizona sex:male OR female" ; Times: 1
+	Query: "Plethodon richmondi" ; Times: 1
+	Query: "Thamnophis marcianus" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "vntype:specimen order:Testudines hassex:1 haslength:1" ; Times: 1
+	Query: "Dicrodon guttulatum" ; Times: 2
+	Query: "Eurycea neotenes" ; Times: 1
+	Query: "Rhinophrynus dorsalis" ; Times: 1
+	Query: "desmognathus conanti" ; Times: 1
+	Query: "Plethodon vandykei" ; Times: 1
+	Query: "Eleutherodactylus decoratus" ; Times: 1
+	Query: "class:AMPHIBIA stateprovince:&#34;SINALOA&#34;" ; Times: 2
+	Query: "Lepidochelys kempii" ; Times: 1
+	Query: "Rhinoclemmys areolata" ; Times: 1
+	Query: "Abronia taeniata" ; Times: 1
+	Query: "specificepithet:longirostris genus:Rallus stateprovince:&#34;California&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "sceloporus grammicus" ; Times: 1
+	Query: "class:amphibia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kenedy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Plethodon mississippi" ; Times: 1
+	Query: "Gyrinophilus porphyriticus" ; Times: 1
+	Query: "specificepithet:auriculatus genus:Desmognathus stateprovince:&#34;Texas&#34; mappable:1" ; Times: 1
+	Query: "Gerrhonotus liocephalus" ; Times: 1
+	Query: "Gastrophryne elegans" ; Times: 1
+	Query: "class:Reptilia county:&#34;Willacy&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "desmognathus auriculatus" ; Times: 1
+	Query: "Oedipina uniformis" ; Times: 1
+	Query: "specificepithet:ossifragus genus:Corvus year &gt;= 1800 year &lt;= 1980 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ambystoma cingulatum" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "hyla valancifer" ; Times: 1
+	Query: "Spea bombifrons" ; Times: 1
+	Query: "Aneides ferreus" ; Times: 1
+	Query: "Crotalus ravus" ; Times: 1
+	Query: "Ophryacus undulatus" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Eurycea tridentifera" ; Times: 1
+	Query: "molothrus ater hasmass:1" ; Times: 1
+	Query: "Desmognathus aeneus" ; Times: 1
+	Query: "Dicrodon holmbergi" ; Times: 2
+	Query: "Lampropeltis polyzona" ; Times: 1
+	Query: "Falco peregrinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "sceloporus salvini" ; Times: 1
+	Query: "Necturus beyeri" ; Times: 1
+	Query: "Pseudoeurycea werleri" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 3
+	Query: "Oscaecilia" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "class:Reptilia county:&#34;Kleberg&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Hydromantes shastae" ; Times: 1
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "order:Chiroptera locality:Tlaxcala" ; Times: 1
+	Query: "class:Amphibia county:&#34;San Patricio&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:macrorhynchus genus:Globicephala" ; Times: 1
+	Query: "sceloporus megalepidurus" ; Times: 1
+	Query: "percina" ; Times: 1
+	Query: "Eleutherodactylus spatulatus" ; Times: 1
+	Query: "Plethodon glutinosus" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Lithobates berlandieri" ; Times: 1
+	Query: "specificepithet:muscosa genus:rana year &gt;= 1960 year &lt;= 2006" ; Times: 2
+	Query: "morone americana" ; Times: 1
+	Query: "trachemys gaigeae" ; Times: 1
+	Query: "Plethodon welleri" ; Times: 1
+	Query: "Plethodon jordani" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "sceloporus arenicolus" ; Times: 2
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Eurycea wilderae" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "Lampropeltis smithi" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "ophiophagus Hannah" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Heliodoxa aurescens" ; Times: 2
+	Query: "specificepithet:punctatus genus:Bufo" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Notophthalmus perstriatus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Micrurus diastema" ; Times: 2
+	Query: "Ambystoma granulosum" ; Times: 1
+	Query: "Claudius angustatus" ; Times: 1
+	Query: "dipodomys phillipsii" ; Times: 1
+	Query: "Desmognathus wrighti" ; Times: 1
+	Query: "Thorius pennatulus" ; Times: 1
+	Query: "Bolitoglossa rostrata" ; Times: 1
+	Query: "Notophthalmus meridionalis" ; Times: 3
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Leptodeira maculata" ; Times: 1
+	Query: "lepidophyma sylvaticum" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+	Query: "Dicamptodon tenebrosus" ; Times: 2
+	Query: "Pseudoeurycea altamontana" ; Times: 1
+	Query: "Ptychohyla macrotympanum" ; Times: 1
+	Query: "kinosternon leucostomum" ; Times: 1
+
+
+End of report.
