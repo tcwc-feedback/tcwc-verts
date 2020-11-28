@@ -1,0 +1,675 @@
+Report for Institution Code TCWC, Resource tcwc_verts
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1600
+Number of records retrieved in searches: 12340
+Number of different countries where searches have been originated: 21
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 33
+	Country: Canada ; Times: 43
+	Country: Australia ; Times: 4
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 88
+	Country: Unknown ; Times: 9
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: Peru ; Times: 62
+	Country: France ; Times: 7
+	Country: United States ; Times: 390
+	Country: Sweden ; Times: 4
+	Country: China ; Times: 10
+	Country: United Kingdom ; Times: 920
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 3
+	Country: Germany ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 14
+	Country: Singapore ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 5
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-30 ; Times: 2
+	Date: 2020-06-15 ; Times: 173
+	Date: 2020-06-14 ; Times: 5
+	Date: 2020-06-17 ; Times: 184
+	Date: 2020-06-16 ; Times: 6
+	Date: 2020-06-11 ; Times: 294
+	Date: 2020-06-10 ; Times: 322
+	Date: 2020-06-13 ; Times: 1
+	Date: 2020-06-12 ; Times: 9
+	Date: 2020-06-08 ; Times: 51
+	Date: 2020-06-06 ; Times: 24
+	Date: 2020-06-07 ; Times: 32
+	Date: 2020-06-20 ; Times: 5
+	Date: 2020-06-21 ; Times: 5
+	Date: 2020-06-22 ; Times: 3
+	Date: 2020-06-23 ; Times: 4
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-25 ; Times: 6
+	Date: 2020-06-26 ; Times: 8
+	Date: 2020-06-09 ; Times: 43
+	Date: 2020-06-28 ; Times: 2
+	Date: 2020-06-29 ; Times: 4
+	Date: 2020-06-04 ; Times: 58
+	Date: 2020-06-05 ; Times: 45
+	Date: 2020-06-02 ; Times: 82
+	Date: 2020-06-03 ; Times: 143
+	Date: 2020-06-01 ; Times: 81
+
+List of queries that retrieved data from the resource: 
+	Query: "Selaroides leptolepis" ; Times: 6
+	Query: "specificepithet:neuwiedii genus:Pseudoboa stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Puntioplites falcifer" ; Times: 12
+	Query: "genus:Conraua institutioncode:TCWC" ; Times: 2
+	Query: "Sarotherodon melanotheron" ; Times: 12
+	Query: "Muntiacus muntjak" ; Times: 6
+	Query: "genus:Oxyrhopus class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys county:&#34;hudspeth&#34; stateprovince:&#34;texas&#34;" ; Times: 3
+	Query: "Labiobarbus lineatus" ; Times: 12
+	Query: "Hemibagrus nemurus" ; Times: 6
+	Query: "specificepithet:carinatus genus:Chironius class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Philodryas country:&#34;Peru&#34;" ; Times: 1
+	Query: "Crenicichla REGANI" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "specificepithet:pleei genus:Mastigodryas class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 9
+	Query: "TCWC 16453.01" ; Times: 1
+	Query: "82441" ; Times: 1
+	Query: "Neafrapus boehmi" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis county:&#34;Jeff Davis&#34;" ; Times: 1
+	Query: "specificepithet:ardens genus:Euplectes hastissue:1" ; Times: 2
+	Query: "tantilla rubra" ; Times: 1
+	Query: "country:Ecuador scientificname:Iguana iguana " ; Times: 2
+	Query: "Apistogramma agassizii" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;val verde&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "genus:Spilotes class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:candelaria county:&#34;presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:lineatus genus:Liophis class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Coregonus sardinella" ; Times: 6
+	Query: "Oreochromis aureus" ; Times: 6
+	Query: "genus:dendrophidion country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "Hypsibarbus malcolmi" ; Times: 12
+	Query: "Glyptothorax laosensis" ; Times: 6
+	Query: "Tyto alba mass OR weight" ; Times: 2
+	Query: "Acarichthys heckelii" ; Times: 2
+	Query: "Apistogramma cacatuoides" ; Times: 1
+	Query: "Buteo lineatus mass OR weight" ; Times: 2
+	Query: "Bassariscus astutus flavus locality:kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ovophis okinavensis" ; Times: 1
+	Query: "genus:Liophis country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Cichla temensis" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Mystacoleucus marginatus" ; Times: 12
+	Query: "Decapterus tabl" ; Times: 6
+	Query: "class:Reptilia stateprovince:&#34;Cordoba&#34; country:&#34;Colombia&#34; institutioncode:TCWC" ; Times: 1
+	Query: "specificepithet:pyromelana genus:Lampropeltis county:&#34;grant&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "genus:Leptodeira class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Microglanis poecilus" ; Times: 5
+	Query: "specificepithet:bifossatus genus:Mastigodryas class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Labeo chrysophekadion" ; Times: 12
+	Query: "TJH" ; Times: 2
+	Query: "Epimachus" ; Times: 1
+	Query: "Scomber colias" ; Times: 6
+	Query: "Falco peregrinus hasmass:1" ; Times: 1
+	Query: "lampropeltis calligaster maryland" ; Times: 1
+	Query: "Falco sparverius mass OR weight" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 2
+	Query: "raja miraletus" ; Times: 2
+	Query: "specificepithet:miliarius genus:Sistrurus county:&#34;Christian&#34; stateprovince:&#34;Missouri&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mustela asia" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Xenentodon cancila" ; Times: 12
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 11
+	Query: "Protobothrops tokarensis" ; Times: 1
+	Query: "catalognumber:53419" ; Times: 1
+	Query: "Rhinoclemmys pulcherrima" ; Times: 1
+	Query: "Trichopsis vittata" ; Times: 12
+	Query: "specificepithet:dixoni genus:Thamnodynastes class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura peruana " ; Times: 1
+	Query: "Piaractus brachypomus" ; Times: 6
+	Query: "catalognumber:36168" ; Times: 2
+	Query: "Accipiter cooperii mass OR weight" ; Times: 2
+	Query: "Mystus singaringan" ; Times: 12
+	Query: "genus:Xenodon class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "echis carinatus india" ; Times: 2
+	Query: "93108" ; Times: 1
+	Query: "Pangasius macronema" ; Times: 18
+	Query: "genus:Epicrates class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Microglanis iheringi" ; Times: 4
+	Query: "tantilla cuniculator" ; Times: 1
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "Labiobarbus siamensis" ; Times: 12
+	Query: "specificepithet:triangulum genus:Lampropeltis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "Zenaida macroura hasmass:1" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;culberson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "TCWC AND nigripinnis" ; Times: 1
+	Query: "Taxidea berlandieri stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Sibon class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "genus:Tripanurgos country:&#34;Peru&#34;" ; Times: 3
+	Query: "Pseudomystus siamensis" ; Times: 6
+	Query: "specificepithet:armillata genus:Tantilla country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Buteo lineatus hasmass:1" ; Times: 1
+	Query: "vanellus lugubris" ; Times: 1
+	Query: "catalognumber:53248" ; Times: 1
+	Query: "specificepithet:piscivorus genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:mustelina genus:Hylocichla institutioncode:TCWC" ; Times: 1
+	Query: "genus:Leptotyphlops class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Cichlasoma amazonarum" ; Times: 1
+	Query: "country:Ecuador scientificname:Uroderma bilobatum " ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Dendrophidion class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "RT 286" ; Times: 2
+	Query: "Gastroscyphus and tcwc" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;Brown&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 6
+	Query: "Rasbora dusonensis" ; Times: 6
+	Query: "country:Ecuador scientificname:Myotis riparius " ; Times: 4
+	Query: "genus:rhinocheilus county:&#34;inyo&#34;" ; Times: 1
+	Query: "scientificname:(Lutjanus apodus) country:United States mappable:1" ; Times: 2
+	Query: "Yasuhikotakia modesta" ; Times: 12
+	Query: "specificepithet:boddaerti genus:Mastigodryas class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 4
+	Query: "TCWC 39028" ; Times: 1
+	Query: "scientificname:(Agonostomus monticola) country:United States mappable:1" ; Times: 2
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 3
+	Query: "genus:Pituophis county:&#34;Barnwell&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Amblyrhynchichthys truncatus" ; Times: 12
+	Query: "genus:Helicops country:&#34;Ecuador&#34;" ; Times: 4
+	Query: "genus:Micrurus class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Apistogramma luelingi" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:marfa county:&#34;presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Cyclocheilichthys armatus" ; Times: 6
+	Query: "Lontra canadensis lataxina county:&#34;galveston&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "vanellus cinereus" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 1
+	Query: "CYPRINELLA PROSERPINA AND CONWAY" ; Times: 1
+	Query: "specificepithet:malimbicus genus:Malimbus hastissue:1" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Aequidens diadema" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:chisos county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;crockett&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Varanus similis" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 2
+	Query: "catalognumber:41469" ; Times: 1
+	Query: "genus:Boa class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 6
+	Query: "Henicorhynchus siamensis" ; Times: 6
+	Query: "myliobatis aquila" ; Times: 1
+	Query: "specificepithet:margaritiferus genus:Drymobius class:Reptilia country:&#34;Panama&#34;" ; Times: 1
+	Query: "snyderidia canina" ; Times: 1
+	Query: "specificepithet:erytrogramma genus:Farancia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Strix occidentalis lucida" ; Times: 3
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "TCWC 57926" ; Times: 1
+	Query: "Hemibagrus wyckioides" ; Times: 6
+	Query: "genus:Drymarchon class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Pseudolais pleurotaenia" ; Times: 12
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 5
+	Query: "100399" ; Times: 2
+	Query: "Osphronemus goramy" ; Times: 6
+	Query: "TCWC 36715" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "Bassariscus astutus flavus locality:hwy 6 stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Osteochilus melanopleurus" ; Times: 6
+	Query: "Bassariscus astutus flavus locality:jct hwy 6 stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Cercosaura bassleri" ; Times: 1
+	Query: "class:Reptilia locality:Corozo stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 3
+	Query: "genus:Anniella county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:auratus genus:Anolis class:Reptilia stateprovince:&#34;Antioquia&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+	Query: "Strix varia hasmass:1" ; Times: 1
+	Query: "genus:dendrophidion country:&#34;Peru&#34;" ; Times: 1
+	Query: "Boesemania microlepis" ; Times: 6
+	Query: "lycodon travancoricus" ; Times: 1
+	Query: "genus:chironius country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "Anematichthys repasson" ; Times: 6
+	Query: "Paralaubuca typus" ; Times: 12
+	Query: "genus:Rana specificepithet:neovolcanica" ; Times: 1
+	Query: "Buteo jamaicensis mass OR weight" ; Times: 1
+	Query: "genus:maxomys surifer" ; Times: 1
+	Query: "Puntioplites proctozystron" ; Times: 12
+	Query: "Notopterus notopterus" ; Times: 6
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Labiobarbus leptocheilus" ; Times: 12
+	Query: "Hampala dispar" ; Times: 6
+	Query: "Mystus mysticetus" ; Times: 9
+	Query: "Garra fasciacauda" ; Times: 12
+	Query: "microlophichthys microlophus" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 6
+	Query: "genus:Pseudoboa class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:rufipunctatus genus:Thamnophis country:&#34;United States&#34; year &gt;= 1990" ; Times: 1
+	Query: "Siganus spinus" ; Times: 6
+	Query: "RT 287" ; Times: 1
+	Query: "Apistogramma urteagai" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus coibensis " ; Times: 3
+	Query: "Bassariscus astutus flavus county:&#34;wichita&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Geomys arenarius" ; Times: 4
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 2
+	Query: "Duellmanohyla ignicolor" ; Times: 9
+	Query: "Ptychohyla specificepithet:macrotympanum" ; Times: 1
+	Query: "Discherodontus ashmeadi" ; Times: 6
+	Query: "Bassariscus astutus flavus county:&#34;kimble&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Cercosaura ocellata bassleri" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Mastacembelus armatus" ; Times: 6
+	Query: "Barbonymus schwanenfeldii" ; Times: 6
+	Query: "Ameiurus catus" ; Times: 6
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Carphophis vermis texas" ; Times: 3
+	Query: "Bassariscus astutus flavus county:&#34;Hamilton&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:miliarius genus:Sistrurus stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "monocirrhus polyacanthus" ; Times: 1
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "Carphophis Texas" ; Times: 6
+	Query: "Odocoileus virginianus texana stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "genus:Ptychohyla specificepithet:macrotympanum" ; Times: 3
+	Query: "Esomus metallicus" ; Times: 6
+	Query: "Channa micropeltes" ; Times: 12
+	Query: "boiga trigonata" ; Times: 1
+	Query: "catalognumber:61239" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "TCWC 28905" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Sialia currucoides hasmass:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Zulia&#34; country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "Bassariscus astutus flavus locality:cowden ranch county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "recordedby:W.w. wood" ; Times: 1
+	Query: "Phelsuma guentheri" ; Times: 1
+	Query: "genus:Crotalus class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "lycodon aulicus india" ; Times: 4
+	Query: "Pangasius larnaudii" ; Times: 18
+	Query: "tantilla schistosa" ; Times: 1
+	Query: "tantilla coronadoi" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34; institutioncode:TCWC" ; Times: 1
+	Query: "arthrosaura reticulata" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 3
+	Query: "genus:Dipsas class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "eryx conicus india" ; Times: 5
+	Query: "Ptychohyla macrotympanum" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:porthidium country:&#34;Peru&#34;" ; Times: 1
+	Query: "eumeces laticeps newton county missouri" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "catalognumber: 49140" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus aequatorialis " ; Times: 2
+	Query: "genus:Theloderma specificepithet:corticale" ; Times: 4
+	Query: "genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "Falco sparverius hasmass:1" ; Times: 2
+	Query: "meuschenia trachylepis" ; Times: 1
+	Query: "genus:Siphlophis country:&#34;Peru&#34;" ; Times: 2
+	Query: "coccopygia melanotis" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Peru&#34;" ; Times: 1
+	Query: "catalognumber: 61436" ; Times: 1
+	Query: "Carassius carassius" ; Times: 6
+	Query: "genus:Leptodeira class:Reptilia locality:Corozo stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 2
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "Bassariscus astutus flavus locality:Kerrville county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "Crenicichla wallacii" ; Times: 2
+	Query: "Accipiter cooperii hasmass:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+	Query: "Gyrinocheilus pennocki" ; Times: 6
+	Query: "Esox lucius" ; Times: 8
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 7
+	Query: "37841" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 3
+	Query: "genus:Micrurus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 7
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Panama&#34;" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:asper genus:Bothrops class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "TCWC 16977.01" ; Times: 2
+	Query: "Sialia currucoides mass OR weight" ; Times: 2
+	Query: "Cardellina canadensis Texas" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "Dermophis oaxacae" ; Times: 1
+	Query: "CENTRONYCTERIS MAXIMILIANI" ; Times: 33
+	Query: "coccyzus americanus Panama" ; Times: 1
+	Query: "Chrysichthys nigrodigitatus" ; Times: 6
+	Query: "Bassariscus astutus flavus locality:zh canyon county:&#34;presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:llano county:&#34;llano&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:98948" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "scientificname:(Notropis oxyrhynchus) country:United States mappable:1" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:valentine county:&#34;presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "Sialia sialis hasmass:1" ; Times: 1
+	Query: "genus:Pitangus stateprovince:&#34;Texas&#34;" ; Times: 3
+	Query: "TCWC 28904" ; Times: 1
+	Query: "tantilla bocourti" ; Times: 1
+	Query: "TCWC 28906" ; Times: 1
+	Query: "TCWC 28907" ; Times: 1
+	Query: "TCWC 28900" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "TCWC 28902" ; Times: 1
+	Query: "TCWC 28903" ; Times: 1
+	Query: "Scaphognathops bandanensis" ; Times: 12
+	Query: "TCWC 28909" ; Times: 1
+	Query: "cinnyris manoensis" ; Times: 4
+	Query: "genus:Leptophis country:&#34;Peru&#34;" ; Times: 3
+	Query: "Ctenopharyngodon idellus" ; Times: 6
+	Query: "genus:Ninia class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "100499" ; Times: 1
+	Query: "Sialia sialis mass OR weight" ; Times: 2
+	Query: "Barbichthys laevis" ; Times: 6
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Mustela frenata texensis stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "Channa striata" ; Times: 12
+	Query: "Euderma maculatum" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;robertson&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Cosmochilus harmandi" ; Times: 12
+	Query: "specificepithet:olivacea genus:Piranga county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:mexicanus genus:cinclus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "Osteochilus vittatus" ; Times: 12
+	Query: "country:Ecuador scientificname:Sturnira ludovici " ; Times: 1
+	Query: "Nemipterus bipunctatus" ; Times: 3
+	Query: "Decapterus macarellus" ; Times: 6
+	Query: "Gobiomorus maculatus" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 9
+	Query: "Bassariscus astutus flavus county:&#34;brazos&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "93995" ; Times: 1
+	Query: "Hemibagrus spilopterus" ; Times: 12
+	Query: "Lontra canadensis lataxina stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 3
+	Query: "sistrurus new mexico" ; Times: 1
+	Query: "genus:Mastigodryas class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "arremonops ridgwayi" ; Times: 1
+	Query: "oedipina uniformis" ; Times: 1
+	Query: "specificepithet:hyoprora country:&#34;Peru&#34;" ; Times: 1
+	Query: "Astronotus crassipinnis" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 5
+	Query: "odontoscion dentex" ; Times: 1
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "Bassariscus astutus flavus county:&#34;jeff davis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Procyon lotor fuscipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 2
+	Query: "genus:Leptophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Peru&#34;" ; Times: 5
+	Query: "specificepithet:dixoni genus:Thamnodynastes" ; Times: 1
+	Query: "Heteropneustes fossilis" ; Times: 6
+	Query: "Mystus albolineatus" ; Times: 3
+	Query: "Batis senegalensis" ; Times: 2
+	Query: "genus:Sibon class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:neuwiedii genus:Pseudoboa" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:Brownwood stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "genus:Tantilla class:Reptilia country:&#34;Venezuela&#34; AND (NOT ANOLIS NOT AMEIVA NOT CNEMIDOPHORUS)" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:Hunt county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:Leptophis class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Tantilla cucullata" ; Times: 1
+	Query: "specificepithet:annulata genus:Leptodeira class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Pelecanus occidentalis mass OR weight" ; Times: 2
+	Query: "genus:Clelia class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Epinephelus chlorostigma" ; Times: 6
+	Query: "Pristolepis fasciata" ; Times: 6
+	Query: "Labeo rohita" ; Times: 6
+	Query: "Lepidocephalichthys hasselti" ; Times: 6
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Mystacoleucus atridorsalis" ; Times: 6
+	Query: "trimeresurus malabaricus india" ; Times: 1
+	Query: "country:&#34;ARGENTINA&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Athene cunicularia hasmass:1" ; Times: 1
+	Query: "TCWC 57925" ; Times: 2
+	Query: "tantilla wilcoxi" ; Times: 1
+	Query: "catalognumber:57338" ; Times: 1
+	Query: "Bassariscus astutus flavus locality:comstock stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "TCWC 38118" ; Times: 1
+	Query: "TCWC 38117" ; Times: 1
+	Query: "specificepithet:callicephalus genus:Eumeces county:&#34;Santa Cruz&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Euspondylus simonsii" ; Times: 2
+	Query: "Probarbus jullieni" ; Times: 6
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "TCWC AND BRACKETVILLE" ; Times: 1
+	Query: "TCWC 28899" ; Times: 1
+	Query: "country:Ecuador scientificname:Bradypus variegatus " ; Times: 6
+	Query: "Bassaricyon" ; Times: 1
+	Query: "genus:Phimophis class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Salmo salar" ; Times: 9
+	Query: "country:Ecuador scientificname:Lophostoma silvicolum " ; Times: 1
+	Query: "genus:phrynosoma county:&#34;gillespie&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Barbonymus altus" ; Times: 12
+	Query: "TCWC 28901" ; Times: 1
+	Query: "Cichlasoma bimaculatum" ; Times: 1
+	Query: "Bassariscus astutus flavus county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 5
+	Query: "genus:chironius country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cyclocheilichthys enoplos" ; Times: 12
+	Query: "Tyto alba hasmass:1" ; Times: 1
+	Query: "paranthias furcifer" ; Times: 1
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "specificepithet:petrosus order:galliformes" ; Times: 1
+	Query: "lipophrys pholis" ; Times: 1
+	Query: "59011" ; Times: 1
+	Query: "catalognumber:55845" ; Times: 1
+	Query: "Duellmanohyla chamulae" ; Times: 1
+	Query: "catalognumber:55841" ; Times: 1
+	Query: "specificepithet:rufipunctatus genus:Thamnophis year &gt;= 1990" ; Times: 2
+	Query: "Pharomachrus mocinno" ; Times: 2
+	Query: "Gastrocyathus and tcwc" ; Times: 1
+	Query: "catalognumber:70280" ; Times: 1
+	Query: "specificepithet:mustelina genus:Hylocichla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "conway and bracketville" ; Times: 1
+	Query: "Charadrius melodus mass OR weight" ; Times: 2
+	Query: "country:Ecuador scientificname:Artibeus obscurus " ; Times: 2
+	Query: "Bassariscus astutus flavus locality:mountain county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Progne subis hasmass:1" ; Times: 1
+	Query: "Progne subis mass OR weight" ; Times: 2
+	Query: "country:Ecuador scientificname:Myotis nigricans " ; Times: 2
+	Query: "TCWC 23648" ; Times: 1
+	Query: "Trimeresurus puniceus" ; Times: 4
+	Query: "Raiamas guttatus" ; Times: 6
+	Query: "class:Aves locality:Cuatro cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "lycodon travancoricus india" ; Times: 1
+	Query: "Buteo jamaicensis hasmass:1" ; Times: 1
+	Query: "Charadrius melodus hasmass:1" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;Perú&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Athene cunicularia mass OR weight" ; Times: 2
+	Query: "Dormitator latifrons" ; Times: 1
+	Query: "Barbonymus gonionotus" ; Times: 12
+	Query: "class:Reptilia stateprovince:&#34;Cordoba&#34; country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;llano&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Bolivar&#34; country:&#34;Colombia&#34; AND (NOT PORTHIDIUM NOT MICRURUS)" ; Times: 1
+	Query: "Pipistrellus hesperus texas" ; Times: 3
+	Query: "Cirrhinus mrigala" ; Times: 6
+	Query: "Bassariscus astutus flavus county:&#34;uvalde&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "tantilla atriceps" ; Times: 1
+	Query: "specificepithet:europaeus genus:Mesoplodon" ; Times: 1
+	Query: "Mekongina erythrospila" ; Times: 12
+	Query: "specificepithet:adamanteus genus:crotalus stateprovince:&#34;Georgia&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "Lile stolifera" ; Times: 1
+	Query: "TCWC 28908" ; Times: 1
+	Query: "genus:Ceratophrys specificepithet:cranwelli" ; Times: 3
+	Query: "Salmo trutta" ; Times: 9
+	Query: "genus:Stenorrhina class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+	Query: "Bassariscus astutus flavus county:&#34;brazos&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Falco peregrinus mass OR weight" ; Times: 2
+	Query: "Calliophis intestinalis" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Procyon lotor fuscipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Bassariscus astutus flavus locality:kerrville 20 county:&#34;Kerr&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34; (wichita)" ; Times: 1
+	Query: "genus:Drymarchon country:&#34;Ecuador&#34;" ; Times: 3
+	Query: "specificepithet:neuwiedii genus:Pseudoboa country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 1
+	Query: "genus:Micruroides county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ahaetulla nasuta india" ; Times: 2
+	Query: "Neotoma lepida" ; Times: 9
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 2
+	Query: "genus:Pseudoboa country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Pseudoboa class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "genus:Synophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:stellifer genus:stellifer" ; Times: 2
+	Query: "Microhierax caerulescens" ; Times: 1
+	Query: "trimorphodon texas" ; Times: 2
+	Query: "genus:Oxybelis class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 3
+	Query: "Clarias macrocephalus" ; Times: 12
+	Query: "Lontra canadensis lataxina stateprovince:&#34;Texas&#34; country:&#34;United States&#34; hastissue:1" ; Times: 1
+	Query: "Zenaida macroura mass OR weight" ; Times: 3
+	Query: "maxomys surifer" ; Times: 3
+	Query: "Poropuntius normani" ; Times: 6
+	Query: "Strix varia mass OR weight" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "specificepithet:melanotus genus:Liophis class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Atule mate" ; Times: 6
+	Query: "Bassariscus astutus flavus county:&#34;mason&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:neuwiedii genus:Pseudoboa stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Cottus pollux" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "trimeresurus malabaricus" ; Times: 4
+	Query: "Anas poecilorhyncha" ; Times: 6
+	Query: "genus:Natalus country:&#34;Honduras&#34; institutioncode:TCWC" ; Times: 1
+	Query: "Homo sapiens" ; Times: 18
+	Query: "class:Reptilia locality:Altagracia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 2
+	Query: "Cottus asper" ; Times: 6
+	Query: "Carassius auratus" ; Times: 6
+	Query: "TCWC Imantodes" ; Times: 1
+	Query: "Macrognathus siamensis" ; Times: 6
+	Query: "genus:Leptodeira class:Reptilia stateprovince:&#34;Guarico&#34; country:&#34;Venezuela&#34;" ; Times: 1
+	Query: "Parachela siamensis" ; Times: 3
+	Query: "Sceloporus salvini" ; Times: 15
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Bassariscus astutus flavus county:&#34;presidio&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "21719" ; Times: 2
+	Query: "Xiphophorus variatus" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 474 download events in this period)
+Total number of records downloaded: 4428
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 42
+	Country: Peru ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-23 ; Times: 2
+	Date: 2020-06-25 ; Times: 5
+	Date: 2020-06-08 ; Times: 6
+	Date: 2020-06-09 ; Times: 9
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 4
+	Date: 2020-06-04 ; Times: 10
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-02 ; Times: 7
+	Date: 2020-06-03 ; Times: 6
+	Date: 2020-06-10 ; Times: 18
+	Date: 2020-06-11 ; Times: 6
+	Date: 2020-06-01 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "coleonyx switaki" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "Bassariscus astutus flavus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "specificepithet:violacea genus:Nyctanassa" ; Times: 1
+	Query: "genus:Helicops country:&#34;Peru&#34;" ; Times: 1
+	Query: "Dryocopus pileatus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "sea otter" ; Times: 1
+	Query: "specificepithet:fuscescens genus:Catharus" ; Times: 1
+	Query: "genus:Oxybelis country:&#34;Peru&#34;" ; Times: 1
+	Query: "Ovophis okinavensis" ; Times: 1
+	Query: "Neusticurus ecpleopus" ; Times: 1
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves locality:Cuatro cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "Procyon lotor fuscipes stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "genus:chironius country:&#34;Peru&#34;" ; Times: 1
+	Query: "Arthrosaura reticulata" ; Times: 1
+	Query: "Tyrannus savana" ; Times: 1
+	Query: "specificepithet:petrosus genus:Ptilopachus" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Prionodactylus argulus" ; Times: 1
+	Query: "genus:Passerina month &gt;= 5 month &lt;= 7 hastissue:1" ; Times: 1
+	Query: "genus:Amphisbaena country:&#34;Perú&#34;" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 1
+	Query: "genus:Erythrolamprus country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:spea stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "genus:Dipsas country:&#34;Peru&#34;" ; Times: 1
+	Query: "Catharus fuscescens" ; Times: 1
+	Query: "genus:Tripanurgos country:&#34;Peru&#34;" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "nasua nasua" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "genus:Liophis country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:Pseustes country:&#34;Peru&#34;" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:pictus genus:oreortyx order:galliformes" ; Times: 1
+	Query: "Nyctanassa violacea" ; Times: 1
+	Query: "TCWC Imantodes" ; Times: 1
+	Query: "specificepithet:pucherani order:galliformes" ; Times: 1
+	Query: "Cardellina canadensis Texas" ; Times: 1
+	Query: "Cercosaura bassleri" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "genus:scaphiopus stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "ichthyology vntype:specimen (Cambodia)" ; Times: 1
+	Query: "specificepithet:savana genus:Tyrannus" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Peru&#34;" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "locality:kentucky" ; Times: 1
+	Query: "Cercosaura ocellata bassleri" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "specificepithet:atrox country:&#34;Peru&#34;" ; Times: 1
+	Query: "Pecari tajacu angulatus stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Myotis lucifugus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Euspondylus simonsii" ; Times: 1
+	Query: "Cercosaura argulus" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+	Query: "Myotis lucifugus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:poliocephala order:galliformes" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "Piranga rubra" ; Times: 1
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "genus:Oxyrhopus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Bassaricyon" ; Times: 1
+	Query: "specificepithet:purpurascens order:galliformes" ; Times: 1
+
+
+End of report.
